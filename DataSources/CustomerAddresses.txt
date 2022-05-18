@@ -1,0 +1,1591 @@
+Customer ID	Country	State	City	ZIP	Address
+RH-19495	USA	NM	Las Cruces	88011	3751 Del Rey Boulevard
+JR-16210	USA	NM	Gallup	87301	4311 East Lohman Avenue
+CR-12730	USA	NM	Crownpoint	87313	1901 Redrock Drive
+KM-16375	USA	NM	Tucumcari	88401	State Route 371 And Route 9
+RH-9495	USA	NM	Espanola	87532	301 East Miel De Luna Avenue
+JM-15655	USA	AZ	Gilbert	85295	1010 Spruce Street
+TS-21340	USA	AZ	Gilbert	85206	5656 South Power Road
+MB-18085	USA	NM	Clovis	88101	5652 E Baseline Road
+JW-15220	USA	NM	Gallup	87301	2100 North Martin Luther King Junior Boulevard
+JH-15985	USA	NM	Albuquerque	87102	516 Nizhoni Boulevard
+GM-14695	USA	NM	Albuquerque	87102	504 Elm Street Northeast
+AJ-10780	USA	NM	Albuquerque	87114	505 Elm Street Northeast
+MM-7260	USA	NM	Albuquerque	87106	10501 Golf Course Road Northwest
+VF-21715	USA	NM	Albuquerque	87102	2211 Lomas Boulevard Northeast
+PF-19120	USA	NM	Albuquerque	87110	700 High Street Northeast
+BP-11185	USA	NM	Albuquerque	87109	8300 Constitution Avenue Northeast
+TB-21175	USA	NM	Albuquerque	87106	4701 Montgomery Boulevard Northeast
+PJ-18835	USA	NM	Roswell	88203	1100 Central Avenue Southeast
+JS-15685	USA	NM	Roswell	88201	72 Gail Harris St
+RH-9555	USA	NM	Roswell	88201	405 West Country Club Road
+AB-600	USA	NM	Grants	87020	117 East 19Th Street
+SA-20830	USA	NM	Raton	87740	1016 East Roosevelt Avenue
+JK-15325	USA	NV	Las Vegas	89149	203 Hospital Drive
+LB-16795	USA	NM	Rio Rancho	87144	6900 North Durango Drive
+NP-18325	USA	NM	Albuquerque	87102	3001 Broadmoor Blvd Ne
+VD-21670	USA	NM	Albuquerque	87108	239 Elm Street Ne
+PB-19210	USA	NM	Albuquerque	87108	"5400 Gibson Boulevard Se,4Th Floor"
+EB-14110	USA	NV	Boulder City	89005	5901 Zuni Se
+KF-16285	USA	NV	Dayton	89403	901 Adams Boulevard
+BP-11230	USA	OH	Warren	44484	1001 Medical Center Drive
+RR-19525	USA	NM	Acoma Pueblo	87049	"667 Eastland Ave Se,5Th Floor"
+BS-11365	USA	UT	Ogden	84405	80 B Veterans Blvd
+JE-15745	USA	UT	Ogden	84403	5475 South 500 East
+DP-13105	USA	TX	Comanche	76442	4401 Harrison Boulevard
+NP-18700	USA	UT	Saint George	84770	10201 Hwy 16 N
+AH-30	USA	UT	Saint George	84790	544 South 400 East (Flood St)
+DM-13015	USA	AZ	Tucson	85704	1380 East Medical Center Drive
+GT-14635	USA	UT	North Logan	84341	"6050 North Corona Rd,Suite 3"
+PO-18865	USA	TX	Lakeway	78734	2380 North 400 East
+DL-12865	USA	AZ	Cottonwood	86326	2000 Medical Drive
+JB-16000	USA	AZ	Prescott Valley	86314	269 S Candy Lane
+BF-11005	USA	OH	Lodi	44254	3347 Windsong Drive
+VG-21805	USA	OH	Wadsworth	44281	225 Elyria Street
+GT-14710	USA	OH	Coldwater	45828	195 Wadsworth Road
+ZC-21910	USA	OH	Troy	45373	800 West Main Street
+SC-20095	USA	UT	Logan	84341	3130 North County Road 25A
+EB-13840	USA	UT	Price	84501	500 East 1400 North
+AP-10915	USA	UT	Beaver	84713	300 North Hospital Drive
+SW-20275	USA	UT	Panguitch	84759	1109 North 100 West Street
+JH-15820	USA	OH	Dayton	45417	200 North 400 East
+LC-16885	USA	UT	Roosevelt	84066	One Elizabeth Place
+TG-11640	USA	UT	Roosevelt	84066	250 West 300 North
+HR-14830	USA	UT	Bountiful	84010	187 West Lagoon Street
+DG-3300	USA	UT	Bountiful	84010	401 South 400 East
+SG-20470	USA	UT	Layton	84041	630 Medical Drive
+FH-14365	USA	AZ	Wickenburg	85390	1600 West Antelope Drive
+GP-14740	USA	NV	Las Vegas	89119	1245 Jack Burden Road
+MW-18220	USA	OH	Dayton	45417	2250 E Flamingo Rd
+PO-18850	USA	UT	Woods Cross	84010	One Elizabeth Place
+CS-12460	USA	UT	Vernal	84078	592 West 1350 South
+KD-16495	USA	OH	Centerville	45459	151 West 200 North
+MS-17980	USA	OH	Mansfield	44903	2400 Miami Valley Drive
+KC-16675	USA	OR	Madras	97741	335 Glessner Avenue
+DB-13405	USA	OH	Dayton	45405	470 Ne A Street
+JD-15895	USA	UT	Payson	84651	405 Grand Avenue
+DK-13090	USA	IA	Des Moines	50310	1000 East 100 North (Hwy198)
+CS-11845	USA	IN	Tell City	47586	1818 48Th Street
+EM-14200	USA	OH	Kettering	45429	One Hospital Rd
+DW-3480	USA	UT	Provo	84604	3535 Southern Boulevard
+AS-10225	USA	UT	American Fork	84003	1034 North 500 West
+ST-20530	USA	IA	Des Moines	50314	170 North 1100 East
+BW-1065	USA	UT	Orem	84057	1801 Hickman Road
+LA-16780	USA	OR	Hillsboro	97124	331 North 400 West
+AB-10150	USA	NV	Las Vegas	89119	2875 Nw Stucki Ave
+CM-12385	USA	UT	Orem	84057	"2075 East Flamingo Road,Fifth Floor"
+BE-11410	USA	UT	Provo	84606	750 West 800 North
+SZ-20035	USA	AZ	Phoenix	85008	1300 East Center Street
+RM-19375	USA	IA	Iowa Falls	50126	501 North 24Th Street
+HG-14845	USA	OH	Dayton	45439	110 Rocksylvania Avenue
+DP-3105	USA	OH	Miamisburg	45342	5350 Lamme Road
+AR-10540	USA	NV	Minden	89423	4000 Miamisburg-Centerville Road
+TP-21415	USA	OH	Miamisburg	45342	"1649 Lucerne St,Unit A & B"
+AM-10705	USA	OH	Dayton	45417	4000 Miamisburg-Centerville Road
+AB-255	USA	OH	Dayton	45406	707 East Edwin C Moses Blvd
+RP-19270	USA	OH	Mount Gilead	43338	2222 Philadelphia Drive
+BK-11260	USA	OH	Zanesville	43701	651 West Marion Road
+JM-15250	USA	UT	Brigham City	84302	2951 Maple Avenue
+LW-16990	USA	UT	Tremonton	84337	950 South Medical Drive
+NZ-18565	USA	UT	West Jordan	84081	905 North 1000 West
+SV-10815	USA	UT	West Jordan	84088	5899 West Rivendell Drive
+SC-20695	USA	NV	Mesquite	89027	3580 West 9000 South
+NC-18625	USA	OH	Zanesville	43701	1299 Bertha Howe Avenue
+NF-18385	USA	DC	Washington	20032	800 Forest Avenue
+PM-18940	USA	AZ	Tucson	85707	1100 Alabama Avenue Se
+MZ-17335	USA	NV	Owyhee	89832	Davis-Monthan Afb
+HM-4980	USA	OR	Junction City	97448	1623 Hospital Loop
+RW-19540	USA	NV	Elko	89801	29398 Recovery Way
+LH-17155	USA	UT	Murray	84107	2001 Errecart Boulevard
+KM-16660	USA	OH	Chillicothe	45601	5848 West Fashion Boulevard
+AB-10060	USA	UT	Murray	84107	272 Hospital Road
+DB-13060	USA	AZ	Mesa	85202	5121 South Cottonwood Street
+VM-21685	USA	AZ	Phoenix	85006	1400 S. Dobson Rd.
+DM-13525	USA	AZ	Mesa	85206	1111 East Mcdowell Road
+NM-18520	USA	FL	Marianna	32446	6750 E. Baywood Ave.
+RO-19780	USA	NV	Reno	89503	4250 Hospital Dr
+SB-20185	USA	OH	Shelby	44875	235 West Sixth Street
+EM-14065	USA	OH	Chillicothe	45601	199 West Main Street
+RS-19765	USA	FL	Graceville	32440	17273 Oh-104
+ON-18715	USA	OR	Baker City	97814	5429 College Dr
+VS-21820	USA	NV	Carson City	89703	3325 Pocahontas Road
+CM-12115	USA	OH	Bellevue	44811	1400 Medical Pkwy
+TB-21400	USA	UT	Salt Lake City	84102	1400 West Main Street
+AB-10105	USA	OR	Salem	97301	1050 East South Temple
+DW-13540	USA	OR	Albany	97321	"890 Oak Street, Se"
+PS-19045	USA	OR	Pendleton	97801	1046 6Th Avenue Sw
+CC-12370	USA	NV	Silver Springs	89429	2801 St Anthony Way
+TC-21295	USA	OR	Prineville	97754	3595 Hwy 50 West
+GM-14440	USA	MN	St Paul	55101	384 Se Combs Flat Road
+SV-20815	USA	OH	Fremont	43420	640 Jackson Street
+MM-17920	USA	OH	Portsmouth	45662	715 South Taft Avenue
+JK-16120	USA	UT	Salt Lake City	84108	1805 27Th Street
+DJ-13510	USA	UT	Sandy	84094	500 Foothill Drive
+AT-10435	USA	NV	Las Vegas	89117	9660 South 1300 East
+AB-10015	USA	OR	Brookings	97415	7000 West Spring Mountain Road
+RP-19390	USA	OR	Grants Pass	97527	"555 5Th Street,Suite 2"
+MJ-17740	USA	UT	Sandy	84094	500 Sw Ramsey Avenue
+PV-18985	USA	IA	Davenport	52806	8074 South 1300 East
+SB-20290	USA	NV	North Las Vegas	89086	1111 West Kimberly Road
+SM-10005	USA	OR	Portland	97220	6900 Pecos Rd
+KH-16330	USA	NV	Reno	89502	10300 Ne Hancock Street
+MP-18175	USA	NV	Las Vegas	89106	975 Kirman Avenue
+LH-17020	USA	NV	Ely	89301	1700 Vegas Drive
+ND-18370	USA	OH	Tiffin	44883	1500 Avenue 'H'
+CR-12625	USA	OH	Sidney	45365	45 St Lawrence Drive
+GM-14680	USA	OR	Ashland	97520	915 West Michigan Street
+RA-19945	USA	OR	Bend	97701	280 Maple Street
+BW-11110	USA	OR	Medford	97504	2500 Ne Neff Road
+RF-19735	USA	IA	Sumner	50674	1111 Crater Lake Avenue
+AG-10675	USA	NV	Las Vegas	89106	909 West 1St Street
+DM-12955	USA	IN	Terre Haute	47802	620 Shadow Lane
+KD-16270	USA	NV	Reno	89502	1420 E Crossing Blvd
+BE-11335	USA	FL	Bonifay	32425	690 Edison Way
+SO-20335	USA	UT	Salt Lake City	84112	2600 Hospital Dr
+DK-12835	USA	UT	Salt Lake City	84103	50 North Medical Drive
+LC-7050	USA	OH	Canton	44708	356 North Virginia Street
+CG-12520	USA	UT	Salt Lake City	84108	1320 Mercy Drive Nw
+TB-21280	USA	UT	West Valley City	84120	501 Chipeta Way
+HG-15025	USA	UT	Salt Lake City	84113	3460 South Pioneer Parkway
+AD-10180	USA	UT	Salt Lake City	84124	100 Mario Capecchi Drive
+BP-11155	USA	UT	Midvale	84047	1200 East 3900 South
+AA-10480	USA	UT	Draper	84020	7309 South 180 West
+RL-19615	USA	UT	Riverton	84065	11925 S State St
+CS-12505	USA	IA	Chariton	50049	3741 West 12600 South
+SW-20245	USA	IA	Cedar Rapids	52403	1200 North 7Th Street
+TA-21385	USA	OR	Burns	97720	701 Tenth Street Se
+YC-21895	USA	IA	Anamosa	52205	557 W Washington Street
+JM-15580	USA	UT	Provo	84604	104 Broadway Place
+MZ-7335	USA	UT	Salt Lake City	84103	306 West River Bend Lane
+JF-15295	USA	UT	Orem	84097	8Th Avenue C Street
+JL-15835	USA	UT	Salt Lake City	84106	1350 East 750 North
+DJ-3510	USA	UT	Milford	84751	3802 South 700 East
+MF-18250	USA	UT	South Jordan	84095	850 North Main Street
+JE-15610	USA	UT	Syracuse	84075	5126 West Daybreak Parkway
+CP-12340	USA	UT	Murray	84107	2732 West 2700 South
+EH-14125	USA	IA	Iowa City	52242	4252 S Birkhill Blvd
+NC-18340	USA	IA	Iowa City	52245	200 Hawkins Drive
+JS-16030	USA	UT	Lehi	84043	500 East Market Street
+AM-10360	USA	UT	Delta	84624	3000 North Triumph Blvd
+JF-15190	USA	UT	Fillmore	84631	126 South White Sage Avenue
+JG-15160	USA	NY	Medina	14103	674 South State Highway 99
+DP-13390	USA	UT	Gunnison	84634	200 Ohio St
+AG-10330	USA	UT	Heber	84032	64 East 100 North Street
+GK-14620	USA	UT	Moab	84532	1485 United States Highway 40
+NF-18475	USA	UT	Monticello	84535	450 West Williams Way
+DR-12940	USA	IN	Elkhart	46514	380 West 100 North
+NB-18655	USA	OR	Gold Beach	97444	600 East Blvd
+NM-18445	USA	OR	Coos Bay	97420	94220 Fourth Street
+NP-18670	USA	OR	Coquille	97423	1775 Thompson Road
+SC-20380	USA	OR	Se Bandon	97411	940 East 5Th Street
+PA-9060	USA	OR	Reedsport	97467	900 11Th Street Se
+RB-19570	USA	OR	Roseburg	97471	600 Ranch Road
+SR-20740	USA	OR	Redmond	97756	2700 Nw Stewart Parkway
+RH-19510	USA	OR	Ontario	97914	1253 N Canal Blvd
+LH-16750	USA	OR	Lakeview	97630	351 Sw 9Th Street
+KB-16585	USA	OR	Cottage Grove	97424	700 South J Street
+EM-13810	USA	OR	Springfield	97477	1515 Village Drive Cottage
+MZ-7515	USA	IN	Warsaw	46580	1460 G Street
+DM-13345	USA	UT	Mount Pleasant	84647	1535 Provident Dr
+CA-11965	USA	IN	Martinsville	46151	1100 South Medical Drive
+SC-20305	USA	TX	Dallas	75243	2209 John R Wooden Dr
+MH-18115	USA	VA	Pearisburg	24134	9525 Greenville Ave
+KS-16300	USA	VA	Midlothian	23113	159 Hartley Way
+BG-11740	USA	OR	Florence	97439	601 Watkins Centre Pkwy
+CR-2625	USA	OR	Eugene	97401	400 9Th Street
+CB-12415	USA	OR	Klamath Falls	97601	1255 Hilyard Street
+AP-10720	USA	OR	Springfield	97477	2865 Daggett Avenue
+CR-12820	USA	OR	Clackamas	97015	3333 Riverbend Drive
+BF-11080	USA	OR	Tualatin	97062	10180 Se Sunnyside Road
+JM-15265	USA	IN	Hobart	46342	19300 Sw 65Th Avenue
+TW-21025	USA	IA	Oelwein	50662	101 W 61St Ave
+RB-19330	USA	OR	Milwaukie	97222	201 8Th Avenue Southeast
+JA-15970	USA	OR	Oregon City	97045	10150 Se 32Nd Avenue
+AB-60	USA	AZ	Laveen	85339	1500 Division Street
+JR-5670	USA	OR	Astoria	97103	7171 South 51St Avenue
+MD-17350	USA	AZ	Gilbert	85297	2111 Exchange Street
+PK-19075	USA	AZ	Tucson	85712	3555 South Val Vista Drive
+TP-21130	USA	AK	Anchorage	99506	"2221 North Rosemont Boulevard,Bldg 3, Suite 200"
+JK-15640	USA	AZ	Phoenix	85027	5955 Zeamer Ave.
+CD-11920	USA	AK	Anchorage	99508	2545 West Quail Avenue
+JL-5835	USA	AK	Anchorage	99508	1650 Bragaw Street
+EP-13915	USA	AK	Cordova	99574	2530 Debarr Road
+MS-17770	USA	OR	Seaside	97138	602 Chase Ave.
+CM-12655	USA	AK	Anchorage	99503	725 S Wahanna Road
+JC-6105	USA	AK	Bethel	99559	4800 Cordova Street
+GB-14530	USA	OR	Portland	97225	700 Chief Eddie Hoffman Highway
+JH-16180	USA	OR	Portland	97225	Sw Eastridge Street
+MT-8070	USA	IN	Greenwood	46143	9205 Sw Barnes Road
+CV-2805	USA	OR	Hillsboro	97123	607 S Greenwood Springs Dr
+NH-18610	USA	IA	Cedar Falls	50613	335 Se 8Th Avenue
+HJ-14875	USA	IN	Lafayette	47904	515 College Street
+JL-15175	USA	MT	Dillon	59725	1501 Hartford St
+MY-18295	USA	MS	Lousville	39339	600 Hwy 91 South
+MW-18235	USA	IA	Waterloo	50702	923 South Church Street
+KC-16540	USA	OR	The Dalles	97015	3421 West 9Th Street
+HA-14920	USA	OH	Massillon	44646	1700 E 19Th Street
+MT-17815	USA	OH	Alliance	44601	875 Eighth Street Ne
+FW-14395	USA	OH	Canton	44710	200 East State Street
+BH-11710	USA	OH	Massillon	44646	2000 Sixth Street
+DK-12895	USA	OH	Canton	44710	2051 Wales Avenue Nw
+SC-20845	USA	OR	Enterprise	97828	2600 Sixth Street Sw
+CY-12745	USA	OR	La Grande	97850	601 Medical Parkway
+HL-15040	USA	OR	Dallas	97338	900 Sunset Drive
+CT-11995	USA	IA	Centerville	52544	525 Se Washington Street
+GR-4560	USA	IA	Osage	50461	One St. Joseph Drive
+TT-21070	USA	IA	Albia	52531	616 North 8Th Street
+PO-19195	USA	IN	Mishawaka	46544	6580 165Th St
+ED-13885	USA	SD	Eureka	57437	"215 W 4Th St,Ste 200"
+TM-21490	USA	OR	Portland	97216	410 9Th Street
+AW-10840	USA	OR	Portland	97227	10123 Se Market Street
+AT-10735	USA	OR	Portland	97210	2801 N Gantenbein Avenue
+SG-10605	USA	CT	Hartford	6112	"1015 Nw 22Nd Avenue, W121"
+BM-11785	USA	CT	New Britain	6053	490 Blue Hills Ave
+DK-13375	USA	OR	Gresham	97030	2150 Corbin Ave
+PF-19225	USA	OR	Portland	97210	24800 Se Stark Street
+TG-21310	USA	IA	Marshalltown	50158	"1015 Nw 22Nd Avenue, W121"
+SF-10200	USA	OR	Portland	97223	Three South Fourth Avenue
+JW-5220	USA	OR	Portland	97213	3181 Sw Sam Jackson Park Road
+CC-12100	USA	OR	Portland	97239	4805 Ne Glisan Street
+RD-19930	USA	SD	Mobridge	57601	3101 Sw Sam Jackson Park Road
+BP-1230	USA	SD	Gregory	57533	1401 10Th Avenue West
+CS-12175	USA	SD	Burke	57523	400 Park Avenue
+JD-16060	USA	OH	Massillon	44648	809 Jackson Street
+GH-14665	USA	OH	Akron	44308	3000 Erie Sw
+CM-11935	USA	OH	Barberton	44203	214 W Bowery St
+RB-9465	USA	OH	Akron	44310	155 5Th Street N E
+RB-19795	USA	CT	Bridgeport	6606	444 North Main Street
+DL-13495	USA	OR	Tillamook	97141	2800 Main St
+TS-21205	USA	NY	Harrison	10528	1000 Third Street
+MV-8190	USA	OH	Akron	44309	275 North St
+BD-11560	USA	PA	Norristown	19401	525 East Market Street
+PS-18760	USA	OH	Barberton	44203	1301 Powell Street
+FM-14215	USA	SD	Armour	57313	"155 Fifth Street, Ne"
+CA-12775	USA	SD	Freeman	57029	708 8Th Street
+CD-12790	USA	OR	Hermiston	97838	510 East 8Th Street
+NL-18310	USA	OR	Newberg	97132	610 Nw 11Th Street
+TB-21055	USA	OR	Mcminnville	97128	1001 Providence Drive
+EH-4125	USA	IN	Indianapolis	46250	2700 Se Stratus Ave
+KB-16600	USA	OR	Heppner	97836	8075 N Shadeland Ave
+KW-16435	USA	OR	Stayton	97383	564 E Pioneer Drive
+MG-17695	USA	OR	Silverton	97381	1401 N 10Th Avenue
+HM-14860	USA	OR	Corvallis	97330	342 Fairview Street
+BP-11290	USA	OR	Lincoln City	97367	3600 Nw Samaritan Drive
+HZ-4950	USA	OR	Newport	97365	3043 Ne 28Th Street
+TC-20980	USA	OR	Lebanon	97355	930 Sw Abbey Street
+EM-13825	USA	OR	Forest Grove	97116	525 N Santiam Highway
+BS-11800	USA	IA	Hampton	50441	1809 Maple St
+DV-13465	USA	AZ	Scottsdale	85260	1720 Central Avenue East Po Box 417
+MB-17305	USA	AZ	Peoria	85381	9630 E Shea Blvd
+PC-19000	USA	AZ	Phoenix	85012	13216 N. Plaza Del Rio Blvd
+CA-12310	USA	AZ	Mesa	85206	40 East Indianola Ave
+KC-16255	USA	AZ	Scottsdale	85260	6644 E. Baywood Ave.
+DB-3660	USA	AZ	Phoenix	85008	11250 North 92Nd Street
+SC-20260	USA	AZ	Phoenix	85031	2601 E Roosevelt
+BD-11500	USA	AZ	Mesa	85209	5102 West Campbell Avenue
+BM-11140	USA	AZ	Phoenix	85008	1301 S. Crismon Road
+KB-16315	USA	AZ	Phoenix	85032	750 North 40Th Street
+JM-15865	USA	CT	Danbury	6810	3929 East Bell Road
+AF-10885	USA	CT	New London	6320	24 Hospital Ave
+SJ-20500	USA	CT	Norwich	6360	365 Montauk Ave
+WB-21850	USA	CT	Stafford Springs	6076	326 Washington St
+CC-12610	USA	CT	Vernon	6066	201 Chestnut Hill Rd
+BE-11455	USA	CT	Putnam	6260	31 Union St
+TG-21640	USA	CT	Willimantic	6226	320 Pomfret Street
+MS-17365	USA	SD	Eagle Butte	57625	112 Mansfield Ave
+NP-18685	USA	AZ	Mesa	85203	317 Main Street
+RM-19675	USA	AZ	Phoenix	85013	433 E. 6Th Street
+SN-20560	USA	OR	Medford	97504	"350 West Thomas Road,3Rd Floor"
+CD-12280	USA	AZ	Phoenix	15006	2825 E Barnett Road
+BG-11035	USA	IN	Madison	47250	"1012 East Willetta,4Th Floor"
+CC-12550	USA	AZ	Phoenix	85006	1 Kings Daughters Dr
+SV-20785	USA	AZ	Phoenix	85015	1800 East Van Buren Street
+HW-14935	USA	AZ	Phoenix	85018	6501 N. 19Th Ave.
+AS-10285	USA	AZ	Goodyear	85338	3550 E. Pinchot Ave
+LD-16855	USA	OH	Akron	44308	13677 W Mcdowell Road
+NS-18505	USA	CT	New Haven	6511	200 East Market Street
+CM-12715	USA	CT	Waterbury	6721	1450 Chapel St
+JD-6060	USA	CT	Waterbury	6706	64 Robbins St
+MG-17680	USA	CT	Meriden	6450	56 Franklin St
+DB-13210	USA	CT	Milford	6460	435 Lewis Ave
+CS-11860	USA	CT	New Haven	6504	300 Seaside Avenue
+GG-14650	USA	CT	Derby	6418	20 York St
+BN-11470	USA	AZ	Phoenix	85006	130 Division St
+BS-1665	USA	CT	West Haven	6516	1800 E Van Buren Street
+AC-10450	USA	CT	Hartford	6105	950 Campbell Avenue
+CK-12205	USA	CT	Hartford	6102	114 Woodland Street
+JD-16150	USA	CT	Manchester	6040	80 Seymour Street
+CC-2550	USA	CT	Bristol	6010	71 Haynes St
+MS-17830	USA	CT	New Britain	6050	Brewster Rd
+SM-20950	USA	CT	Farmington	6032	100 Grand Street
+CL-12700	USA	CT	Hartford	6106	263 Farmington Ave
+CM-12160	USA	NM	Albuquerque	87106	282 Washington Street
+JC-15775	USA	CT	Bridgeport	6610	2600 Marble Ave Ne
+LH-16900	USA	CT	Greenwich	6830	267 Grant Street
+DV-13045	USA	CT	West Hartford	6117	5 Perryridge Rd
+BT-11530	USA	CT	Middletown	6457	1 Abrahms Boulevard
+BM-1650	USA	CT	Sharon	6069	28 Crescent St
+MG-18205	USA	CT	Torrington	6790	"50 Hospital Hill Road, Po Box 789"
+RB-19705	USA	CT	New Milford	6776	540 Litchfield St
+FC-14245	USA	FL	Fort Walton Beach	32547	21 Elm St
+TT-21220	USA	FL	Live Oak	32060	1000 Mar-Walt Dr
+SJ-20215	USA	FL	Lake City	32055	1100 Sw 11Th St
+PB-18805	USA	FL	Lake City	32025	340 Nw Commerce Dr
+RW-19690	USA	AZ	Scottsdale	85255	619 S Marion Ave
+DB-3360	USA	SD	Webster	57274	17500 North Perimiter Drive
+DK-13150	USA	AZ	Tucson	85710	1401 West First Street
+RW-9540	USA	AZ	Tucson	85712	7220 East Rosewood Dr
+MP-17470	USA	OH	Akron	44304	2650 North Wyatt
+TB-21625	USA	AZ	Oro Valley	85755	29 North Adams Street
+MO-17800	USA	SD	Gettysburg	57442	1551 E Tangerine Road
+MR-17545	USA	FL	Jacksonville	32258	606 East Garfield Avenue
+LC-17050	USA	FL	Jacksonville	32216	14550 Old Saint Augustine Rd
+RA-19885	USA	SD	Clear Lake	57226	3625 University Blvd S
+MG-8145	USA	FL	Chattahoochee	32324	701 3Rd Avenue South
+JE-16165	USA	FL	Panama City	32401	100 N Main St
+JK-16090	USA	SD	Britton	57430	615 N Bonita Ave
+EM-13960	USA	NV	Carson City	89703	413 9Th Street
+DJ-13420	USA	FL	Miramar Beach	32550	775 Fleischmann Way
+BO-11425	USA	OH	Youngstown	44505	7800 Us Hwy 98 W
+LW-17215	USA	AZ	Payson	85541	615 Churchill-Hubbard Rd
+PJ-19015	USA	AZ	Flagstaff	86004	807 S. Ponderosa
+KM-16720	USA	FL	Fernandina Beach	32034	2187 N. Vickey Street
+BG-11695	USA	CT	Rocky Hill	6067	1250 S 18Th St
+CS-12130	USA	HI	Honokaa	96727	287 West St
+MC-17425	USA	NE	Atkinson	68713	45-547  Plumeria St
+BD-1635	USA	NE	O'Neill	68763	406 W Neely St
+RF-19345	USA	NE	Aurora	68818	300 North 2Nd St
+MG-7680	USA	NE	Alma	68920	1423 Seventh St
+KH-16690	USA	NY	Olean	14760	717 North Brown St
+CC-12475	USA	PA	Lehighton	18235	515 Main St
+LT-16765	USA	PA	Palmerton	18071	211 North 12Th Street
+BF-10975	USA	PA	Latrobe	15650	135 Lafayette Avenue
+CJ-12010	USA	IA	Webster City	50595	1 Mellon Way
+SH-9975	USA	IA	Winterset	50273	2350 Hospital Drive
+SL-20155	USA	NV	Sparks	89434	300 West Hutchings Street
+NC-8340	USA	PA	Monongahela	15063	2375 East Prater Way
+JB-5400	USA	PA	Washington	15301	1163 Country Club Road
+TB-21250	USA	PA	Honesdale	18431	100 Trich Drive
+PS-18970	USA	PA	Waymart	18472	601 Park Street
+BB-11545	USA	NV	Incline Village	89451	Po Box 256
+SG-10470	USA	PA	Washington	15301	880 Alder Avenue
+SP-20920	USA	PA	Canonsburg	15317	155 Wilson Avenue
+Dp-13240	USA	PA	Sayre	18840	100 Medical Boulevard
+GZ-14470	USA	MN	New Ulm	56073	One Guthrie Square
+AH-10075	USA	MN	Sleepy Eye	56085	1324 Fifth Street North
+CB-2025	USA	PA	Doylestown	18901	400 - 4Th Ave Nw
+SC-20050	USA	NY	Syracuse	13203	833 East Butler Avenue
+SC-10230	USA	PA	Langhorne	19114	301 Prospect Ave
+JS-15595	USA	PA	Bristol	19007	380 North Oxford Valley Road
+BS-11380	USA	PA	Reading	19601	501 Bath Road
+JL-5130	USA	PA	Langhorne	19047	145 North 6Th Street
+AS-10090	USA	NE	Red Cloud	68970	280 Middletown Boulevard
+EL-13735	USA	NE	Henderson	68371	621 N Franklin St
+FH-14275	USA	NE	York	68467	1621 Front Street
+OT-18730	USA	NE	Benkelman	69021	2222 North Lincoln Ave
+SM-10320	USA	NE	Fremont	68025	1313 North Cheyenne St
+PM-19135	USA	PA	Altoona	16602	450 East 23Rd St
+TS-11430	USA	PA	Tyrone	16686	2005 Valley View Boulevard
+LS-17245	USA	PA	York	17405	187 Hospital Drive
+SF-20200	USA	PA	Roaring Spring	16673	"1001 S George Street,5Th Floor"
+CM-11815	USA	PA	Reading	19607	105 Nason Drive
+FG-14260	USA	NE	Omaha	68105	1623 Morgantown Road
+KN-6705	USA	PA	York	17402	4102 Woolworth Ave
+TB-11520	USA	NE	West Point	68788	1861 Powder Mill Road
+JB-15400	USA	NE	Valentine	69201	430 North Monitor St
+KH-16510	USA	NE	Omaha	68114	510 North Green St
+DL-13330	USA	NE	Omaha	68124	7915 Farnam Drive
+KN-16390	USA	PA	Wyomissing	19610	1870 South 75Th Street
+SV-20935	USA	PA	York	17405	2752 Century Boulevard
+MD-17860	USA	PA	Tunkhannock	18657	1001 South George Street
+LS-17200	USA	PA	Everett	15537	880 Sr 6
+CM-12445	USA	NE	Sidney	69162	10455 Lincoln Highway
+SS-20140	USA	PA	Beaver	15009	645 Osage St
+GH-14425	USA	NE	Osceola	68651	1000 Dutch Ridge Road
+SM-20320	USA	NE	Mccook	69001	531 Beebe St
+GR-14560	USA	NE	Bassett	68714	1301 East H St
+TS-21370	USA	NE	Falls City	68355	102 East South Street
+DH-3675	USA	NE	Columbus	68601	2307 Barada St
+MM-8280	USA	PA	Beaver	15009	4600 38Th St
+PM-9135	USA	PA	Kittanning	16201	1000 Dutch Ridge Road
+GP-4740	USA	PA	Pittsburgh	15213	One Nolte Drive
+AF-10870	USA	PA	Mckeesport	15132	200 Lothrop Street
+TS-21505	USA	PA	Pittsburgh	15217	1500 Fifth Avenue  6 Crawford
+BM-11575	USA	PA	Oakdale	15071	6301 Northumberland Street
+AH-10030	USA	PA	Mckees Rocks	15136	7777 Steubenville Pike
+AG-10495	USA	PA	Pittsburgh	15215	25 Heckel Road
+AG-675	USA	PA	Pittsburgh	15241	815 Freeport Road
+SW-20755	USA	PA	Pittsburgh	15212	2575 Boyce Plaza Road
+SK-19990	USA	PA	Sewickley	15143	1004 Arch Street
+AG-10900	USA	PA	Pittsburgh	15224	303 Camp Meeting Road
+AJ-960	USA	PA	Pittsburgh	15224	4800 Friendship Avenue
+MC-7275	USA	PA	Pittsburgh	15243	One Childrens Hospital Dr  4401 Penn Ave
+ER-13855	USA	PA	Pittsburgh	15219	1000 Bower Hill Road
+EJ-13720	USA	PA	Pittsburgh	15213	1400 Locust Street
+DH-13675	USA	PA	Monroeville	15146	200 Lothrop Street
+HE-14800	USA	NE	David City	68632	2570 Haymaker Road
+KT-16480	USA	NE	Oakland	68045	372 South 9Th St
+SB-20170	USA	NE	Chadron	69337	601 East Second St
+EM-14140	USA	NE	Imperial	69033	825 Centennial Drive
+VT-21700	USA	NE	Gothenburg	69138	600 W 12Th St
+JS-15880	USA	PA	Pittsburgh	15238	910 20Th St
+BC-11125	USA	PA	Pittsburgh	15212	Guys Run Road
+NF-18595	USA	PA	Pittsburgh	15213	320 East North Avenue
+RH-9600	USA	MO	Blue Springs	64014	300 Halket Street
+CS-11950	USA	PA	Mckeesport	15132	201 West R.D. Mize Rd
+CM-12235	USA	PA	Pittsburgh	15236	1500 Fifth Avenue
+LW-16825	USA	PA	Natrona Heights	15065	565 Coal Valley Road  P O Box 18119
+RD-19585	USA	PA	Gettysburg	17325	1301 Carlisle Street
+BT-11680	USA	MN	Luverne	56156	147 Gettys Street  Po Box 3786
+MD-7860	USA	NE	Cozad	69130	1600 North Kniss Avenue
+CC-12145	USA	NE	Lexington	68850	300 East 12Th St
+XP-21865	USA	NE	Callaway	68825	1201 North Erie St
+ML-17410	USA	NE	Ainsworth	69210	211 E Kimball St
+BS-11665	USA	PA	Titusville	16354	945 East Zero St
+SC-20230	USA	PA	Clarion	16214	406 West Oak Street
+QJ-19255	USA	PA	Clarion	16214	One Hospital Drive
+RE-19450	USA	PA	Lock Haven	17745	2 Hospital Drive
+CP-2085	USA	NE	Ogallala	69153	24 Cree Drive
+JK-5730	USA	NE	Kimball	69145	2601 North Spruce St
+HZ-14950	USA	NE	Neligh	68756	505 South Burg St
+AR-10570	USA	NE	Tilden	68781	102 West 9Th St
+EH-14005	USA	NE	Wayne	68787	308 West 2Nd
+JR-15700	USA	NV	Yerington	89447	1200 Providence Rd
+PL-18925	USA	PA	Renovo	17764	213 South Whitacre
+TC-21145	USA	PA	Coaldale	18218	1001 Pine Street
+DG-13300	USA	PA	Philadelphia	19114	360 West Ruddle Street
+Dl-13600	USA	PA	Philadelphia	19114	10800 Knights Road
+NC-18415	USA	PA	Philadelphia	19111	4900 Frankford Avenue
+EB-13930	USA	PA	Philadelphia	19102	6129 Palmetto Street
+CP-12085	USA	PA	Philadelphia	19111	230 North Broad Street
+SM-20005	USA	PA	Philadelphia	19102	7600 Central Avenue
+JR-15670	USA	NE	Blair	68008	1513 Race Street
+DL-12925	USA	NV	Fallon	89406	810 North 22Nd St
+FM-14290	USA	PA	Philadelphia	19143	801 East Williams Avenue
+DP-13165	USA	PA	Philadelphia	19122	501 South 54Th Street
+CK-12595	USA	PA	Philadelphia	19111	136 West Diamond Street
+CM-11830	USA	NV	Las Vegas	89128	333 Cottman Avenue
+PP-18955	USA	PA	Philadelphia	19131	2500 North Tenaya
+MM-17260	USA	NV	Las Vegas	89119	4200 Monument Road
+ME-17320	USA	PA	Philadelphia	19140	2075 East Flamingo Road
+CS-12490	USA	NE	Osmond	68765	"3401 N Broad Street,Hosp Admin Suite D"
+GH-14410	USA	NE	Grant	69140	402 North Maple St
+MC-17635	USA	PA	Philadelphia	19128	900 Lincoln Ave
+LM-7065	USA	PA	Philadelphia	19124	1 W Burdick Expy
+AR-10510	USA	PA	Philadelphia	19107	1331 East Wyoming Avenue
+JH-15910	USA	PA	Philadelphia	19146	111 South 11Th Street
+DK-3375	USA	PA	Philadelphia	19104	1800 Lombard Street
+EG-13900	USA	PA	Philadelphia	19130	51 North 39Th Street
+AS-10630	USA	OH	Warren	44482	16Th Street & Girard Avenue
+CL-11890	USA	PA	Philadelphia	19124	"1350 E Market St,9Th Floor"
+CA-12265	USA	PA	Philadelphia	19122	4641 Roosevelt Boulevard
+PF-19165	USA	PA	Philadelphia	19104	Girard Avenue At 8Th Street
+DB-12970	USA	PA	Philadelphia	19128	University & Woodland Avenues
+CL-12565	USA	PA	Pleasant Gap	16823	5800 Ridge Avenue
+MF-17665	USA	PA	Centre Hall	16828	550 West College Avenue
+IM-15055	USA	OH	Marysville	43040	132 The Meadows Drive
+EB-13975	USA	OH	Van Wert	45891	500 London Avenue
+AA-10315	USA	PA	State College	16803	1250 S Washington Street
+MV-17485	USA	PA	Hastings	16646	1800 East Park Avenue
+JW-15955	USA	PA	Johnstown	15901	290 Haida Avenue  Po Box 689
+TS-21610	USA	PA	Coatesville	19320	320 Main Street
+MC-17575	USA	OH	Mason	45040	201 Reeceville Road
+JF-5415	USA	OH	Franklin	45005	4075 Old Western Row Road
+AH-10210	USA	OH	Marietta	45750	One Medical Center Drive
+KD-16345	USA	PA	Paoli	19301	401 Matthew Street
+PG-18895	USA	PA	West Chester	19380	255 West Lancaster Avenue
+HK-14890	USA	PA	West Grove	19390	701 East Marshall Street
+RR-19315	USA	NV	Gardnerville	89410	1015 West Baltimore Pike
+HH-5010	USA	NV	Caliente	89008	1107 Highway 395
+SH-20635	USA	NV	Winnemucca	89445	700 North Spring Street
+AR-10825	USA	PA	Malvern	19355	118 East Haskell Street
+RP-9855	USA	PA	Phoenixville	19468	655 Sugartown Road  P O Box 275
+LR-17035	USA	PA	Downingtown	19335	140 Nutt Road  Po Box 3001
+IM-5055	USA	NE	Wahoo	68066	151 Woodbine Road
+CK-12325	USA	NE	Scottsbluff	69361	1760 County Rd J
+AS-285	USA	PA	Malvern	19355	4021 Ave B
+DK-12985	USA	PA	Coatesville	19320	414 Paoli Pike  Po Box 3007
+EH-4185	USA	NV	Batte Mtn	89820	1400 Black Horse Road
+ML-17395	USA	PA	Dubois	15801	535 South Humboldt Street
+BF-11215	USA	PA	Meyersdale	15552	100 Hospital Avenue
+MB-7305	USA	NE	Friend	68359	200 Hospital Drive
+CR-12580	USA	NE	Crete	68333	905 Second St
+TB-21520	USA	NE	Minden	68959	2910 Betten Dr
+KN-16450	USA	NE	Tecumseh	68450	727 East 1St St
+HR-14770	USA	NE	Fairbury	68352	202 High St
+CK-12760	USA	NV	Pahrump	89048	2200 H St
+RO-9780	USA	PA	Susquehanna	18847	360 South Lola Lane
+EN-13780	USA	NV	Hawthorne	89415	2872 Turnpike Street
+AH-10465	USA	NV	Tonopah	89049	First And 'A' Street
+AH-10585	USA	NV	Lovelock	89419	825 South Main Street
+RB-9435	USA	IA	Orange City	51041	855 Sixth Street
+AG-525	USA	IA	Clarion	50525	1000 Lincoln Circle Se
+AR-10345	USA	IA	Belmond	50421	1316 South Main Street
+MW-8220	USA	IA	Sioux Center	51250	403 First Street Se
+AH-210	USA	IA	Washington	52353	1101 9Th St Se
+TH-21235	USA	IA	Corydon	50060	400 East Polk - Po Box 909
+LT-7110	USA	IA	Decorah	52101	417 South East Street
+HD-14785	USA	IN	Fort Wayne	46807	901 Montgomery Street
+MC-7575	USA	WY	Lusk	82225	2626 Fairfield Ave
+MH-18025	USA	WY	Newcastle	82701	921 South Ballancee Avenue
+CC-2475	USA	IN	Portage	46368	1124 Washington Blvd
+CM-12190	USA	IN	Richmond	47374	3630 Willowcreek Rd
+RA-19915	USA	WY	Powell	82435	Chester Blvd
+MT-18070	USA	KS	Coffeyville	67337	777 Avenue H
+JF-15415	USA	KS	Colby	67701	1400 W 4Th St
+ES-14020	USA	KS	Atchison	66002	100 E College Drive
+CC-12685	USA	KS	Anthony	67003	800 Ravin Hill Drive
+IM-15070	USA	WY	Sundance	82729	1101 E Spring Street
+DA-13450	USA	KS	Ashland	67831	713 Oak Street
+SS-10410	USA	KS	Atwood	67730	709 Oak Street
+BM-11650	USA	KS	Beloit	67420	707 Grant St
+SW-20350	USA	KS	Caldwell	67022	400 W 8Th Street P O Box 399
+CM-1830	USA	KS	Clay Center	67432	601 South Osage Street
+MY-17380	USA	WY	Torrington	82240	617 Liberty
+MS-7830	USA	KS	Concordia	66901	2000 Campbell Drive
+HG-14965	USA	KS	Dighton	67839	1100 Highland Drive
+DC-13285	USA	KS	El Dorado	67042	235 West Vine  Po Box 969
+DL-13315	USA	KS	Dodge City	67801	720 W Central St
+JK-15370	USA	KS	Elkhart	67950	3001 Avenue A
+CH-2070	USA	KS	Ellinwood	67526	445 N Hilltop
+MH-7440	USA	KS	Ellsworth	67439	605 N Main Street
+MC-17845	USA	KS	Emporia	66801	1604 Aylward Avenue
+PW-19030	USA	KS	Fredonia	66736	1201 West 12Th Avenue
+BS-11590	USA	WY	Wheatland	82201	1527 Madison
+DO-13435	USA	KS	Goodland	67735	201 14Th Street
+SG-20890	USA	KS	Hanover	66945	220 West Second Street
+SU-20665	USA	KS	Harper	67058	205 S Hanover Street
+JC-16105	USA	KS	Hiawatha	66434	700 West 13Th
+TB-21190	USA	KS	Hill City	67642	300 Utah Street
+SV-10785	USA	KS	Hillsboro	67063	304 West Prout Street
+VP-21760	USA	KS	Hutchinson	67502	701 S Main Street
+LR-16915	USA	KS	Hoisington	67544	1701 E 23Rd Avenue
+TH-21550	USA	MA	Cambridge	2138	250 W 9Th Street
+TC-11145	USA	KS	Holton	66436	1575 Cambridge Street
+JL-15235	USA	KS	Horton	66439	1110 Columbine Dr
+RK-19300	USA	KS	Hoxie	67740	240 West 18Th Street
+CC-12670	USA	KS	Hugoton	67951	826  18Th Street
+DB-13555	USA	KS	Independence	67301	1006 S Jackson
+SG-20605	USA	KS	Junction City	66441	800 West Myrtle Street
+MG-17890	USA	KS	Kansas City	66112	1102 St Mary'S Road
+MA-17560	USA	KS	Kansas City	66103	8929 Parallel Parkway
+CB-12025	USA	KS	Kansas City	66112	2205 West 36Th Avenue
+DH-13075	USA	KS	Leavenworth	66048	1731 North 90Th Street
+BT-11395	USA	KS	Kansas City	66160	711 Marshall Street
+TT-11265	USA	KS	Kiowa	67070	3901 Rainbow Blvd
+TH-11235	USA	KS	Lakin	67860	810 Drumm Street
+VG-21790	USA	KS	Larned	67550	500 Thorpe Street
+NW-18400	USA	KS	Larned	67550	1301 Ks Highway 264
+VP-21730	USA	KS	Leavenworth	66048	923 Carroll Avenue
+SS-20410	USA	KS	Leawood	66211	3500 South 4Th Street
+JE-15715	USA	KS	Liberal	67901	3651 College Blvd
+AG-270	USA	WY	Worland	82401	315 West 15Th Street
+BW-11200	USA	KS	Lincoln	67455	400 South 15Th Street
+EK-13795	USA	KS	Lyons	67554	624 N Second
+SG-20080	USA	KS	Leoti	67861	619 South Clark Avenue
+SC-10725	USA	KS	Jetmore	67854	211 E Earl Street
+AG-10525	USA	KS	Lindsborg	67456	809 Bramley
+MG-18145	USA	MA	Dartmouth	2747	605 W Lincoln Street
+BD-11605	USA	KS	Johnson	67855	581 Faunce Corner Road
+PB-19105	USA	KS	Kinsley	67547	404 N Chestnut
+SC-20575	USA	KS	La Crosse	67548	620 West Eighth Street
+DO-3435	USA	KS	Lawrence	66044	801 Locust St
+CC-12220	USA	KS	Marysville	66508	325 Maine St
+TS-21430	USA	KS	Meade	67864	708 N 18Th Street
+AZ-10750	USA	KS	Medicine Lodge	67104	510 E Carthage
+IG-15085	USA	KS	Minneapolis	67467	710 N Walnut Street
+SP-20860	USA	WY	Casper	82609	215 E 8Th Street
+KM-16225	USA	WY	Casper	82609	301 West Expressway 83
+KM-6720	USA	WY	Evanston	82930	6550 East 2Nd Street
+MM-18055	USA	MA	Fall River	2720	190 Arrowhead Drive
+RB-19360	USA	WY	Gillette	82716	49 Hillside Street
+NC-8415	USA	WY	Jackson	83001	501 South Burma Avenue
+SN-20710	USA	WY	Rock Springs	82901	625 East Broadway
+DL-3330	USA	WY	Casper	82609	4401 College Dr
+JG-15115	USA	MA	Somerville	2143	6350 East 2Nd St
+CJ-11875	USA	WY	Afton	83110	230 Highland Avenue
+AY-10555	USA	WY	Cody	82414	901 Adams Street
+BV-11245	USA	WY	Rock Springs	82902	707 Sheridan Avenue
+PO-9195	USA	MA	Ludlow	1056	1200 College Drive
+GZ-4545	USA	MA	Middleborough	2346	222 State Street
+PN-18775	USA	MA	Middleborough	2346	52 Oak Street
+SC-20800	USA	WY	Rawlins	82301	23 Isaac Street
+AC-10615	USA	WY	Torrington	82240	13725 Northwest Blvd
+VB-21745	USA	OH	Tiffin	44883	"South 82240, 1419 Main St"
+TT-11460	USA	OH	Akron	44307	50 St Lawrence Drive
+AC-10420	USA	OH	Warren	44484	1 Akron General Avenue
+CG-12040	USA	MA	Westfield	1085	8747 Squires Lane Ne
+TR-11325	USA	MS	Greenwood	38930	91 East Mountain Rd
+SC-20440	USA	MS	Calhoun City	38916	"1401 River Road,Second Floor"
+BT-11305	USA	MS	Hazlehurst	39083	140 Burke
+JB-15925	PRI	PR	Culebra Pueblo	775	233 Magnolia Street
+GW-14605	PRI	PR	Caguas	726	C/William Font Final
+SC-20725	PRI	PR	Manati	960	Pr-172 Urb Turabo Gardans (Salida 21)
+EH-13765	PRI	PR	Orocovis Pueblo	720	Pr-2 Km 49.5 Interseccion 685
+YS-21880	PRI	PR	San Juan	910	Pr-155 Ave Luis Muñoz Marin
+FO-14305	PRI	PR	Monacillo Urbano	936	1395 San Rafael Street
+RP-19855	USA	MS	Hazelhurst	39083	Puerto Rico Medical Center
+AB-10600	PRI	PR	Susua Baja	698	27190 Hwy 28
+KB-16240	PRI	PR	Hato Rey	919	Carretera 128 Km 1
+KA-16525	USA	MS	Gulfport	39501	435 Ponce De Leon Avenue
+EM-3960	USA	AR	Jonesboro	72401	"4500 13Th Street,3Rd Floor"
+JD-15790	USA	AR	West Memphis	72301	909 Enterprise Drive
+JL-15850	USA	MS	Jackson	39202	200 West Tyler Avenue
+JW-16075	USA	MS	Jackson	39216	1225 North State Street
+LL-6840	USA	AR	Murfreesboro	71958	"969 Lakeland Drive,6Th Floor"
+TH-21100	USA	MS	Jackson	39216	315 East 13Th Street
+MC-17275	PRI	PR	Guayama Pueblo	785	969 Lakeland Drive
+NG-8430	USA	MS	Dekalb	39328	Avenue Pedro Albesus
+KD-16615	USA	MS	Meridian	39304	14365 Highway 16 West
+MC-17605	USA	MS	Newton	39345	1818 College Drive
+JK-15625	USA	MS	Batesville	38606	9421 Eastside Drive Extension
+TS-11505	USA	MS	Marks	38646	303 Medical Center
+LD-6855	USA	OK	Blackwell	74631	340 Getwell Drive
+LP-17080	USA	OK	Broken Arrow	74012	710 South 13Th Street
+CV-12805	USA	OK	Eufaula	74432	1200 W Albany Drive
+MO-17500	USA	OK	Frederick	73542	1 Hospital Drive
+MS-17530	USA	OK	Lindsay	73052	319 East Josephine Avenue
+GA-14515	USA	OK	Mangum	73554	1305 West Cherokee
+CS-12355	USA	OK	Midwest City	73110	"12500 South Freeway,Suite 100"
+GM-14500	USA	OK	Muskogee	74401	8210 National Avenue
+CC-2670	USA	AR	Little Rock	72205	300 Rockefeller Drive
+MN-17935	USA	OK	Muskogee	74401	6101 St. Vincent Circle
+JM-16195	USA	OK	Norman	73069	2900 N Main St
+DB-13615	USA	AR	Hot Springs	71901	1210 West Robinson Street
+PK-18910	USA	OK	Oklahoma City	73103	105 Reserve Street
+LS-16945	USA	SD	Redfield	57469	1407 North Robinson Avenue
+JK-15730	USA	SD	Philip	57567	111 West 10Th Avenue
+SW-10275	USA	SD	De Smet	57231	503 West Pine Street
+MC-18100	USA	OK	Oklahoma City	73114	306 Prairie Avenue Southwest
+EH-13945	USA	OK	Pryor	74361	3101 North Tarrant Parkway
+LC-16930	USA	SD	Huron	57350	111 North Bailey Street
+MA-17995	USA	SD	Deadwood	57732	172 Fourth Street Southeast
+SP-20650	USA	SD	Sturgis	57785	61 Charles Street
+JH-15430	USA	AR	Fayetteville	72701	949 Harmon Street
+ML-17755	USA	SD	Parkston	57366	1125 North College Avenue
+PC-18745	USA	SD	Chamberlain	57325	401 West Glynn Drive
+KE-16420	USA	SD	Viborg	57070	300 South Byron Boulevard
+EM-4200	USA	SD	Winner	57580	315 North Washington Street
+DW-13480	USA	SD	Scotland	57059	745 East 8Th Street
+SC-10680	USA	AR	Rogers	72756	600 Billars Street
+JG-15805	USA	SD	Martin	57551	1200 West Walnut Street
+LL-16840	USA	SD	Platte	57369	102 Major Allen Street
+PV-8985	USA	SD	Custer	57730	601 East 7Th Street
+PO-19180	USA	AR	Nashville	71852	1039 Montgomery Street
+SH-19975	USA	SD	Flandreau	57028	800 West Leslie
+GA-14725	USA	SD	Canton	57013	214 North Prairie Street
+GT-4755	USA	SD	Dell Rapids	57022	440 North Hiawatha Drive
+PR-18880	USA	SD	Milbank	57252	909 North Iowa Avenue
+AG-10765	USA	SD	Bowdle	57428	901 East Virgil Avenue
+SE-20110	USA	SD	Faulkton	57438	8001 West 5Th Street
+JB-16045	USA	SD	Sisseton	57262	1300 Oak Street
+JM-5580	USA	AR	Jonesboro	72401	205 Orchard Drive
+JO-15280	USA	SD	Miller	57362	3024 Stadium Boulevard
+LP-17095	USA	SD	Hot Springs	57747	300 West 5Th Street
+EJ-14155	USA	SD	Madison	57042	1201 Highway 71 South
+VW-21775	USA	SD	Sioux Falls	57105	323 Sw 10Th St
+GM-14455	USA	SD	Brookings	57006	800 East 21St Street
+BF-1080	USA	SD	Spearfish	57783	300 22Nd Avenue
+SM-20905	USA	SD	Yankton	57078	1440 North Main Street
+BO-1425	USA	AR	Siloam Springs	72761	3515 Broadway Ave
+AW-10930	USA	SD	Dakota Dunes	57049	205 East Jefferson Street
+JP-15460	USA	SD	Rapid City	57701	600 North Sioux Point Road
+AS-10240	USA	SD	Sioux Falls	57108	651 Cathedral Drive
+TB-11625	USA	SD	Sioux Falls	57105	4500 West 69Th Street
+JP-5520	USA	SD	Sioux Falls	57105	910 E 20Th St
+BD-11770	USA	SD	Vermillion	57069	2501 West 26Th Street
+BD-11635	USA	SD	Sioux Falls	57105	20 South Plum Street
+CC-2370	USA	SD	Wagner	57380	1305 West 18Th Street
+PO-8850	USA	SD	Wessington Springs	57382	2018 Pulliam Street
+TZ-21445	USA	SD	Tyndall	57066	604 1St Street Northeast
+RB-19435	USA	PA	Hershey	17033	410 West 16Th Avenue
+JE-15475	USA	PA	Philadelphia	19134	"500 University Drive,Po Box 850"
+AI-10855	USA	OK	Tulsa	74133	120 East Erie Avenue
+MH-17440	USA	PA	Lititz	17543	10501 East 91St Streeet
+JE-6165	USA	PA	Pittsburgh	15221	1500 Highlands Drive
+DS-13180	USA	OK	Tulsa	74133	225 Penn Avenue
+AC-10660	USA	AZ	Sun City	85351	10109 East 79Th Street
+MH-17455	USA	OK	Tulsa	74133	13818 North Thunderbird Boulevard
+CC-12430	USA	PA	Stroudsburg	18360	10020 E 91St Dr
+NG-18355	USA	OK	Tulsa	74145	100 St Lukes Lane
+RC-19825	USA	AZ	Surprise	85378	3219 South 79Th East Avenue
+JD-16015	USA	AZ	Avondale	85392	1901 Tate Springs Road
+JH-5910	USA	AZ	Tucson	85713	10550 West Mcdowell Rd
+SC-10695	USA	AZ	Tucson	85711	2800 East Ajo Way
+RD-9930	USA	CO	La Junta	81050	350 North Wilmot Road
+LC-6930	USA	OK	Tulsa	74137	1100 Carson Avenue
+DW-13195	USA	CO	Denver	80210	"2408 E. 81St Street,Ste. 2800"
+RD-19900	USA	CO	Colorado Springs	80907	2525 S Downing St
+MV-18190	USA	CO	Colorado Springs	80923	2222 N Nevada Ave
+RD-19480	USA	CO	Pueblo	81004	6001 E Woodmen Road
+SV-20365	USA	AZ	Green Valley	85622	1008 Minnequa Ave
+LS-17230	USA	AZ	Tucson	85704	4455 South I-19 Frontage Rd
+GD-14590	USA	AZ	Tucson	85741	1921 West Hospital Drive
+EB-13750	USA	CO	Canon City	81212	6200 N Lacholla Blvd
+KH-6360	USA	CO	Aurora	80045	1338 Phay Ave
+BF-11275	USA	PA	Langhorne	19047	13123 East 16Th Avenue
+NG-18430	USA	KY	Manchester	40962	1208 Langhorne Newtown Rd
+Co-12640	USA	KS	Overland Park	66221	210 Marie Langdon Drive
+SF-20965	USA	KS	Overland Park	66212	4901 College Boulevard
+KB-16405	USA	KY	Columbia	42728	6509 W 103Rd St
+LC-16870	USA	KY	Scottsville	42164	901 Westlake Drive
+JL-15505	USA	KY	Liberty	42539	456 Burnley Road
+BD-11725	USA	KY	Albany	42602	187 Wolford Avenue
+TM-21010	USA	KY	Burkesville	42717	723 Burkesville Road
+AB-150	USA	KY	Irvine	40336	299 Glasgow Road
+BW-11065	USA	KY	Lexington	40509	60 Mercy Court
+FM-14380	USA	KY	Lexington	40536	3050 Rio Dosa Drive
+PC-8745	USA	KY	Lexington	40508	800 Rose Street
+BN-1470	USA	KY	Prestonsburg	41653	310 South Limestone Street
+AH-10120	USA	KY	Mcdowell	41647	5000 Kentucky Route 321
+LF-17185	USA	KY	Martin	41649	9879 Kentucky Route 122
+DJ-13630	USA	KY	Fulton	42041	11203 Main Street
+SJ-20125	USA	KY	Elizabethtown	42701	2000 Holiday Lane
+ML-18265	USA	KY	Greensburg	42743	913 N Dixie Avenue
+SF-10965	USA	KY	Horse Cave	42749	16000 Johnston Memorial Drive
+PO-8865	USA	KY	Louisville	40207	1501 S. Dixie Street
+MH-17290	USA	KY	Louisville	40215	4001 Dutchmans Lane
+NR-18550	USA	KY	Louisville	40207	1850 Bluegrass Avenue
+MK-17905	USA	KY	Edgewood	41017	759 South Main Street
+DB-13660	USA	KY	Harrodsburg	40330	201 Medical Village Drive
+PH-18790	USA	KY	Carlisle	40311	464 Linden Ave.
+AB-10165	USA	KY	Hartford	42347	2323 Concrete Rd.
+CA-12055	USA	KY	Lagrange	40031	1211 Old Main St.
+JF-5295	USA	KY	Owenton	40359	1025 New Moody Lane
+KT-16465	USA	OK	Vinita	74301	330 Roland Ave.
+RB-9705	USA	MA	Bedford	1730	735 North Foreman Street
+BD-1725	USA	MA	Beverly	1915	200 Springs Road
+EB-13705	USA	MA	Belmont	2478	"800 Cummings Center,1St Fl, #147"
+MG-17875	USA	PA	Harrisburg	17105	115 Mill Street
+MG-17650	USA	PA	Reading	19612	111 S Front St
+AG-10270	USA	CO	Johnstown	80534	420 S Fifth Avenue
+NP-8685	USA	MA	Braintree	2184	4401 Union Street
+AS-630	USA	MA	Foxborough	2035	250 Pond St
+SC-20680	USA	MA	Brockton	2301	609 Medical Center Dr
+MC-17590	USA	MA	Gloucester	1930	235 North Pearl Street
+TP-11415	USA	CO	Johnstown	80534	298 Washington Street
+HH-15010	USA	MA	Leeds	1053	4770 Larimer Parkway
+BT-11485	USA	PA	Monroeville	15146	421 N Main St
+EB-13870	USA	PA	Danville	17822	2380 Mcginley Road
+JP-15520	USA	MA	Stoughton	2072	"100 Academy Avenue,Mc42-10"
+CM-2115	USA	PA	Seneca	16346	"909 Sumner Street,1St Floor"
+EA-14035	USA	PA	Johnstown	15905	100 Fairfield Drive
+FH-14350	USA	MD	Foxridge	21133	1086 Franklin Street
+BS-1800	USA	PA	Pittsburgh	15202	82 Brook Drive
+AA-10375	USA	MD	La Plata	20646	100 South Jackson Avenue
+BN-11515	USA	MD	Glen Burnie	21061	5 Garrett Avenue
+EG-3900	USA	MI	Pigeon	48755	301 Hospital Drive
+RE-19405	USA	PA	Coudersport	16915	170 N Caseville Rd
+ND-18460	USA	PA	Philadelphia	19139	1001 East Second Street
+TT-21460	USA	MD	Baltimore	21201	111 North 49Th Street
+ML-18040	USA	MD	Baltimore	21207	827 Linden Avenue
+JL-5505	USA	MD	Cambridge	21613	2200 Kernan Drive
+SP-20545	USA	MD	Havre De Grace	21078	Post Office Box 800
+SF-10065	USA	MD	Bel Air	21014	501 South Union Avenue
+AS-10045	USA	MD	Hyattsville	20785	500 Upper Chesapeake Drive
+TT-11220	USA	MD	Rockville	20850	3001 Hospital Drive
+AH-10195	USA	MD	Olney	20832	14901 Broschart Road
+KH-6630	USA	MD	Bethesda	20814	18101 Prince Philip Drive
+AA-10645	USA	MD	Laurel	20707	8600 Old Georgetown Rd
+JL-15130	USA	MD	Cheverly	20785	7300 Van Dusen Road
+KM-6375	USA	MD	Silver Spring	20903	3001 Hospital Drive
+LS-16975	USA	MD	Clinton	20735	8901  New Hampshire Avenue
+KL-16645	USA	MD	Crisfield	21817	7503 Surratts Road
+EH-14185	USA	MD	Salisbury	21801	201 Hall Highway
+KW-6570	USA	MD	Salisbury	21801	220 Tilghman Road
+DB-3060	USA	ME	Bangor	4401	100 E Carroll Ave
+FA-14230	USA	ME	Fort Fairfield	4742	268 Stillwater Avenue
+JF-15565	USA	ME	Limestone	4750	3 Green Street
+LO-7170	USA	ME	Blue Hill	4614	382 Main Street
+KB-6315	USA	ME	Calais	4619	57 Water Street
+BS-11755	USA	ME	Bridgton	4009	24 Hospital Lane
+RB-19465	USA	ME	Greenville	4441	10 Hospital Drive
+HF-14995	USA	ME	Bangor	4401	364 Pritham Avenue
+MP-17965	USA	ME	Machias	4654	656 State Street
+JJ-15445	USA	ME	Bangor	4401	Upper Court Street
+LC-17140	USA	ME	Sanford	4073	489 State Street
+TT-11070	USA	ME	Houlton	4730	25 June Street
+BF-11020	USA	ME	Waterville	4901	20 Hartford Street
+ES-14080	USA	ME	Ellsworth	4605	200 Kennedy Memorial Drive
+FC-14335	USA	ME	Augusta	4330	126 Missouri Ave
+TS-21160	USA	ME	Augusta	4330	6 East Chestnut Street
+RE-9450	USA	ME	Waterville	4901	35 Medical Center Parkway
+JC-15340	USA	ME	Waterville	4901	30 Chase Avenue
+MH-17785	USA	ME	Portland	4101	149 North Street
+RF-19840	USA	ME	Westbrook	4092	13515 Lake Terrace Lane
+PG-18820	USA	ME	Rockport	4856	40 Park Road
+DO-13645	USA	ME	Boothbay Harbor	4538	6 Glen Cove Drive
+SC-10305	USA	ME	Pittsfield	4967	6 Saint Andrews Lane
+TN-21040	USA	ME	Norway	4268	447 North Main Street
+DR-12880	USA	MI	Bay City	48706	181 Main Street
+EB-3975	USA	MI	Bay City	48706	3250 E. Midland Rd.
+NS-8505	USA	MI	Detroit	48201	"3250 E Midland Rd,Suite 1"
+SF-20065	USA	MI	Sheridan	48884	3901 Beaubien
+RA-19285	USA	MI	Tecumseh	49286	301 N Main St
+LT-17110	USA	MI	Lakeview	48850	500 E Pottawatamie Street
+BF-11170	USA	MI	Battle Creek	49037	418 Washington
+AR-825	USA	MI	Iron Mountain	49801	1481 W 10Th St
+SD-20485	USA	MI	Harbor Beach	48441	325 E H St
+GW-4605	USA	MI	Charlotte	48813	210 S First St
+DB-13120	USA	MI	Reed City	49677	321 E Harris Street
+JC-5775	USA	MI	Gladwin	48624	"Po Box 75, 300 N Patterson"
+ND-8460	USA	MI	Shelby	49455	515 Quarter Street
+TC-11295	USA	MI	Sandusky	48471	72 South State Street
+DM-2955	USA	MI	Marlette	48453	120 Delaware Street
+PJ-9015	USA	MI	Saint Johns	48879	2770 Main Street
+JH-5820	USA	MI	Standish	48658	805 S Oakland
+ME-18010	USA	MI	Newberry	49868	805 W Cedar St
+AH-10690	USA	MI	Saint Ignace	49781	502 W Harrie St
+RD-19660	USA	MI	Munising	49862	1140 N State Street
+CD-1980	USA	MT	Billings	59107	1500 Sand Point Rd
+CL-2565	USA	MI	Kalkaska	49646	1233 North 30Th Street
+MO-7800	USA	MI	Frankfort	49635	419 S Coral
+CR-2580	USA	MI	Manistique	49854	224 Park Avenue
+TC-10980	USA	MI	Ionia	48846	7870W Us Hwy 2
+RD-9900	USA	MI	Monroe	48162	3565 S State Road
+CS-12250	USA	MI	Greenville	48838	718 N Macomb St
+CH-12070	USA	MI	Carson City	48811	615 S Bower Street
+JF-15355	USA	MI	Midland	48670	406 East Elm St
+AS-135	USA	MI	Adrian	49221	4000 Wellness Drive
+SP-20620	USA	MI	Howell	48843	818 Riverside Avenue
+EC-14050	USA	MI	Warren	48093	620 Byron Rd
+IG-5085	USA	MI	Mount Clemens	48043	11800 East Twelve Mile Road
+TB-21355	USA	MI	Mount Clemens	48043	1000 Harrington Blvd
+MH-17620	USA	MI	Warren	48089	215 North Ave.
+GT-14755	USA	MI	Clinton Township	48038	13355 E Ten Mile Road
+DF-13135	USA	MI	Tawas City	48764	15855 Nineteen Mile Rd
+AS-240	USA	MI	Lansing	48912	200 Hemlock
+PG-8820	USA	MI	Lansing	48915	1215 E Michigan Avenue
+JS-6030	USA	MI	Lansing	48910	1210 W Saginaw
+SS-20590	USA	MI	Lansing	48910	401 W Greenlawn Ave
+CS-2490	USA	MI	Ionia	48846	2727 S Pennsylvania
+CM-2715	USA	MI	Flint	48532	479 Lafayette Street
+BM-1140	USA	MI	Grand Blanc	48439	401 S Ballenger Highway
+RD-19720	USA	MI	Flint	48503	One Genesys Parkway
+LD-17005	USA	MI	Eaton Rapids	48827	One Hurley Plaza
+EB-3705	USA	MI	Holland	49423	1500 S Main Street
+RH-19555	USA	MI	Grand Haven	49417	602 Michigan Ave
+JP-6135	USA	MI	Zeeland	49464	1309 Sheldon Rd
+PB-9210	USA	MI	Alma	48801	8333 Felch St
+LC-16960	USA	MI	Hillsdale	49242	300 E Warwick Dr
+JC-15385	USA	MI	Pontiac	48341	168 S Howell Street
+IL-15100	USA	MI	Southfield	48033	44405 Woodward Ave
+SW-10245	USA	MI	Royal Oak	48073	23901 Lahser
+CP-2340	USA	MI	Madison Heights	48071	3601 W Thirteen Mile Rd
+NS-18640	USA	MI	Farmington Hills	48336	30671 Stephenson Highway
+TR-21325	USA	MI	Pontiac	48342	28050 Grand River Avenue
+NF-8385	USA	MI	W Bloomfield	48322	50 North Perry
+TZ-21580	USA	MI	Commerce Township	48382	6777 West Maple Road
+TB-11055	USA	MI	Southfield	48075	One William Carls Drive
+AJ-10795	USA	MI	Southfield	48075	22401 Foster Winter Drive
+GH-14485	USA	MI	Madison Heights	48071	16001 W Nine Mile Rd
+AG-10300	USA	MI	Fremont	49412	27351 Dequindre
+EH-3945	USA	MI	St Joseph	49085	212 S Sullivan St
+JD-6150	USA	MI	Watervliet	49098	1234 Napier Avenue
+KH-16360	USA	MI	Niles	49120	400 Medical Park Dr
+JB-6045	USA	MI	Kalamazoo	49048	31 North St Joseph Ave
+AH-585	USA	MI	Kalamazoo	49007	1521 Gull Road
+MS-7530	USA	MI	Jackson	49201	601 John Street
+HA-14905	USA	MI	Mount Pleasant	48858	205 N East Ave
+JG-15310	USA	MI	Big Rapids	49307	1221 South Drive
+CD-1920	USA	MI	Ludington	49431	605 Oak Street
+TC-21535	USA	MI	Coldwater	49036	1 N Atkinson Drive
+PB-9105	USA	MI	Battle Creek	49017	274 E Chicago St
+AR-10405	USA	MI	Marshall	49068	300 North Avenue
+NK-18490	USA	MI	Dowagiac	49047	200 N Madison
+MG-7695	USA	MI	Paw Paw	49079	420 W High Street
+AJ-10945	USA	MI	Deckerville	48427	408 Hazen Street
+RS-19420	USA	MI	Owosso	48867	3559 Pine St
+SC-20770	USA	MI	Cass City	48726	826 West King Street
+LM-17065	USA	MI	Caro	48723	4675 Hill Street
+DP-13000	USA	MI	Allegan	49010	401 N Hooper Street
+RD-9660	USA	MI	Clare	48617	555 Linn Street
+LB-16735	USA	MI	Three Rivers	49093	703 N Mcewan St
+MZ-17515	USA	MI	Sturgis	49091	701 S Health Parkway
+ER-3855	USA	MI	Port Huron	48060	916 Myrtle Ave
+MS-17710	USA	MI	Port Huron	48060	2601 Electric Avenue
+LC-6960	USA	MI	East China	48054	1221 Pine Grove Ave
+GZ-14545	USA	MI	Saginaw	48602	4100 River Rd
+JK-5625	USA	MI	Saginaw	48601	1447 N Harrison
+JJ-15760	USA	MI	Saginaw	48602	800 S Washington Avenue
+CA-2265	USA	MI	Saginaw	48602	700 Cooper
+CC-2220	USA	MI	Hastings	49058	515 N. Michigan Ave.
+KL-6555	USA	MI	Bay City	48708	1009 W Green St
+CS-2175	USA	MI	Ypsilanti	48198	1900 Columbus Ave
+KL-16555	USA	MI	Ann Arbor	48106	135 S Prospect St
+RD-9810	USA	MI	Chelsea	48118	5301 E Huron River Dr
+AJ-945	USA	MI	Ann Arbor	48109	775 S Main St
+CC-2685	USA	MI	Livonia	48154	"1500 E Medical Center Drive,Spc 5474"
+LO-17170	USA	MI	Dearborn	48124	36475 Five Mile Road
+DE-13255	USA	MI	Detroit	48235	18101 Oakwood Blvd
+RF-9345	USA	MI	Detroit	48202	6071 W Outer Drive
+SC-20020	USA	MI	Grosse Pointe	48230	2799 W Grand Blvd
+DW-13585	USA	MI	Detroit	48201	468 Cadieux Rd
+EM-4065	USA	MI	Wayne	48184	3990 John R Street
+TD-20995	USA	MI	Detroit	48236	33155 Annapolis Ave
+BD-11320	USA	MI	Wyandotte	48192	22101 Moross Rd
+CW-11905	USA	MI	Trenton	48183	2333 Biddle Ave
+CK-2325	USA	MI	Garden City	48135	5450 Fort Street
+BP-11095	USA	MI	Taylor	48180	6245 Inkster Rd
+DV-3465	USA	MI	Detroit	48201	10000 Telegraph Road
+MY-7380	USA	MI	Detroit	48201	4100 John R
+PB-9150	USA	MI	Detroit	48201	"4201 St Antoine St,3M"
+AG-10390	USA	MI	Lapeer	48446	3980 John R
+KW-16570	USA	MI	Grand Rapids	49503	1375 N Main St
+JF-5190	USA	MI	Wyoming	49519	200 Jefferson Avenue Se
+GB-14575	USA	MI	Grand Rapids	49503	"5900 Byron Center Avenue, Sw"
+MR-7545	USA	MI	Grand Rapids	49503	100 Michigan St Ne
+MO-17950	USA	MI	Hancock	49930	235 Wealthy Se
+TA-11385	USA	MI	Laurium	49913	500 Campus Drive
+JM-5655	USA	MI	Iron Mountain	49801	205 Osceola
+JS-5880	USA	MI	Escanaba	49829	1721 S Stephenson Ave
+HP-14815	USA	MI	Petoskey	49770	3401 Ludington St
+CS-12400	USA	MI	Ontonagon	49953	416 Connable Ave
+DE-3255	USA	MI	Gaylord	49735	601 S Seventh St
+JD-6015	USA	MI	Charlevoix	49720	825 N Center Ave
+CR-2730	USA	MI	Iron River	49935	14700 Lakeshore Drive
+RC-9960	USA	MI	Marquette	49855	1400 W Ice Lake Road
+AO-10810	USA	MI	Ishpeming	49849	420 W Magnetic
+TB-11250	USA	MI	Manistique	49854	901 Lakeshore Drive
+RA-9285	USA	MI	Alpena	49707	500 Main St
+MG-8205	USA	MI	Sault Sainte Marie	49783	1501 W Chisholm St
+MY-8295	USA	MI	L' Anse	49946	500 Osborn Blvd
+SR-20425	USA	MI	Traverse City	49684	18341 Us Highway 41
+BT-1530	USA	MI	Grayling	49738	1105 Sixth Street
+LS-7245	USA	MI	Saline	48176	1100 E Michigan Ave
+AB-10255	USA	MI	Saginaw	48604	400 W Russell St
+TH-21115	USA	MI	Novi	48374	4599 Towne Centre Rd
+LC-6885	USA	MI	Grosse Pointe Farms	48236	47601 Grand River Ave
+AC-660	USA	MI	Mount Clemens	48043	159 Kercheval Avenue
+EM-14095	USA	MI	Flint	48532	"215 North Ave,Suite 200"
+BO-11350	USA	MI	Pontiac	48341	"401 S Ballenger,5Th Floor"
+DM-3015	USA	MI	Muskegon	49442	"44405 Woodward Avenue,8Th Floor"
+DD-13570	USA	MI	Berrien Center	49102	"1700 Clinton Street,2 And 3 S Floors"
+KN-16705	USA	MI	Jackson	49202	6418 Deans Hill Rd
+HM-14980	USA	MI	Battle Creek	49016	110 N Elm Avenue
+FM-4215	USA	MI	Plainwell	49080	"300 North Avenue,6Th Floor"
+JO-15145	USA	MI	Ypsilanti	48197	411 Naomi Street
+TC-11535	USA	MI	Detroit	48235	"5301 E Huron River Dr,7Th Fl"
+JK-15205	USA	MI	Detroit	48234	"6071 West Outer Drive,7Th Floor"
+DA-3450	USA	MI	Grosse Pointe	48230	4777 E Outer Drive
+DB-12910	USA	MI	Saginaw	48602	"468 Cadieux Rd, 3 Northeast"
+EH-4005	USA	MI	Wyandotte	48192	"1447 N Harrison,7Th & 8Th Floor"
+DN-13690	USA	MI	Grand Rapids	49503	"2333 Biddle Ave,8Th Floor"
+AS-10135	USA	MI	Detroit	48201	750 Fuller Ave Ne
+MC-18130	USA	MI	Taylor	48180	"261 Mack Avenue,7Th Floor"
+MM-18280	USA	MI	Saginaw	48608	"10000 Telegraph Road,2Nd Floor,2Nd Floor"
+RL-9615	USA	MN	Montevideo	56265	3340 Hospital Road
+MA-7560	USA	MN	Cloquet	55720	824 - 11Th St N
+HG-4845	USA	MN	Cook	55723	512 Skyline Blvd
+PB-8805	USA	MI	Brighton	48116	10 Southeast Fifth Street
+RW-19630	USA	MI	Detroit	48201	12851 E Grand River
+BT-11440	USA	MI	Rogers City	49779	261 Mack Blvd
+JC-5385	USA	MI	Warren	48091	555 N Bradley Highway
+HR-4770	USA	MI	Taylor	48180	21230 Dequindre Road
+DB-3615	USA	MN	Grand Marais	55604	"10000 Telegraph Road,2Nd Floor"
+JK-6120	USA	MN	Albany	56307	515 - 5Th Ave W
+SW-20455	USA	MN	Bigfork	56628	300 Third Avenue
+GH-4425	USA	MN	Buffalo	55313	258 Pine Tree Drive
+GB-4575	USA	MN	Cambridge	55008	303 Catlin Street
+PA-19060	USA	MN	Monticello	55362	701 South Dellwood Avenue
+CA-2775	USA	MN	Appleton	56208	1013 Hart Boulevard
+CV-12295	USA	MN	Marshall	56258	30 South Behl Street
+PO-9180	USA	MN	Tyler	56178	300 South Bruce Street
+NC-18535	USA	MN	Paynesville	56362	240 Willow Street
+GZ-4470	USA	MN	Melrose	56352	200 First Street West
+AM-360	USA	MN	Sauk Centre	56378	525 Main Street West
+AA-480	USA	MN	Long Prairie	56347	425 North Elm Street
+TB-21595	USA	MN	Deer River	56636	20 Ninth Street Southeast
+KH-16630	USA	MN	Alexandria	56308	115 10Th Avenue Northeast
+TS-21655	USA	MN	Ely	55731	111 17Th Avenue East
+CD-11980	USA	MN	Ada	56510	328 West Conan Street
+DB-13360	USA	MN	Duluth	55805	201 9Th Street West
+SK-9990	USA	MN	Fosston	56542	502 East Second Street
+PT-19090	USA	MN	Aurora	55705	900 Hilligoss Blvd Southeast
+EH-13990	USA	MN	Graceville	56240	5211 Highway 110
+ME-17725	USA	MN	Glencoe	55336	115 - 2Nd St W - Box 157
+ZD-21925	USA	MN	St Paul	55103	1805 Hennepin Avenue North
+MW-8235	USA	MN	St Paul	55109	559 Capitol Boulevard
+BP-11050	USA	MN	Minneapolis	55415	1575 Beam Avenue
+RC-19960	USA	MN	Pine City	55063	701 Park Avenue South
+PN-8775	USA	MN	Baudette	56623	129 East Sixth Avenue
+CB-12535	USA	MN	Staples	56479	600 South Main
+LR-7035	USA	MN	Madelia	56062	49725 County Road 83
+JG-5160	USA	MN	Madison	56256	121 Drew Avenue Southeast
+SC-10845	USA	MN	Mahnomen	56557	820 Third Avenue
+DK-13225	USA	MN	Albert Lea	56007	414 West Jefferson
+CG-2520	USA	MN	Cannon Falls	55009	404 West Fountain Street
+RS-19870	USA	MN	Fairmont	56031	32021 County 24 Boulevard
+DK-2835	USA	MN	Mankato	56002	800 Medical Ctr Drive Po 800
+CM-2385	USA	MN	St James	56081	1025 Marsh St - Po Box 8673
+JE-5745	USA	MN	Red Wing	55066	1101 Moulton & Parsons Dr
+CA-1965	USA	MN	Springfield	56087	701 Hewitt Boulevard
+Dl-3600	USA	PA	Bradford	16701	625 Jackson St N
+DL-2865	USA	MN	New Prague	56071	116 Interstate Parkway
+CM-2445	USA	MN	Onamia	56359	301 Second Street Northeast
+DB-13270	USA	MN	Slayton	56172	200 North Elm Street
+EB-4110	USA	MN	Warren	56762	2042 Juniper Avenue
+BD-11620	USA	MN	Rochester	55904	300 West Good Samaritan Drive
+MN-7935	USA	MN	Pipestone	56164	1650 Fourth Street Southeast
+DB-2910	USA	MN	Elbow Lake	56531	916 4Th Avenue Southwest
+LH-7155	USA	MN	Olivia	56277	1411 State Highway 79 E
+JS-5940	USA	MN	St Peter	56082	100 Healthy Way
+GH-4410	USA	MN	Bemidji	56601	1900 North Sunrise Drive
+SC-10380	USA	MN	Canby	56220	1300 Anne Street Northwest
+SL-10155	USA	MN	Bagley	56621	112 St Olaf Avenue South
+EK-3795	USA	MN	Jackson	56143	203 - 4Th St Nw
+PH-8790	USA	MN	Thief River Falls	56701	1430 North Highway
+HD-4785	USA	MN	Westbrook	56183	3001 Sanford Parkway
+CM-2190	USA	MN	Worthington	56187	920 Bell Ave
+AR-570	USA	MN	Little Falls	56345	1018 Sixth Avenue
+BT-1305	USA	MN	Park Rapids	56470	815 Southeast Second Street
+MH-7785	USA	MN	Benson	56215	600 Pleasant Ave
+SC-10260	USA	MN	Wadena	56482	1815 Wisconsin Avenue
+LW-7125	USA	MN	Blue Earth	56013	415 Jefferson Street North
+SM-10905	USA	PA	Abington	19001	515 South Moore St Po Box 160
+TT-21265	USA	MN	Windom	56101	1200 Old York Road
+EJ-3720	USA	MO	Jefferson City	65101	2150 Hospital Drive
+RS-9765	USA	CO	Denver	80230	100 St. Mary'S Medical Plaza
+EM-4095	USA	MO	Joplin	64801	8140 E 5Th Avenue
+AJ-10960	USA	CO	Denver	80233	2817 St. John'S Blvd
+BD-1770	USA	CO	Westminster	80020	11900 Grant Street
+BE-1410	USA	CO	Littleton	80123	6500 West 104Th Ave
+KC-6255	USA	LA	New Orleans	70131	8515 West Coal Mine Avenue
+DV-3045	USA	LA	Bastrop	71220	"4201 Woodland Drive,3Rd Floor"
+JD-5895	USA	LA	Covington	70433	370 W. Hickory Street
+JM-5865	USA	LA	Gretna	70056	"5025 Keystone Blvd,Suite 200"
+JK-5205	USA	LA	Kenner	70065	120 Oschner Blvd
+CL-2700	USA	LA	Zachary	70791	3639 Loyola Ave
+GG-4650	USA	MO	St. Louis	63131	4601 Mchugh Road
+LS-6945	USA	LA	New Orleans	70119	2001 South Lindbergh Boulevard
+JL-5850	USA	MO	Farmington	63640	3801 Bienville Street
+VP-11760	USA	LA	Ruston	71270	1212 Weber Road
+NF-8595	USA	AZ	Peridot	85542	1495 Frazier Road
+LE-16810	USA	IL	Shiloh	62269	103 Medicine Way Road
+JJ-5445	USA	AK	Seward	99664	1404 Cross St
+CS-2130	USA	AK	Petersburg	99833	417 1St Avenue
+BM-1575	USA	MN	Cass Lake	56633	103 Fram St.
+AC-615	USA	MO	St. Louis	63118	425 7Th St Nw
+HG-5025	USA	MO	St. Louis	63139	2639 Miami Street
+TB-11400	USA	AZ	Fort Defiance	86504	6150 Oakland Avenue
+RB-9330	USA	AZ	Ganado	86505	"Hwy 12 & Bonito Dr,Bldg. Fd 3002"
+JP-5460	USA	MN	Sandstone	55072	State Route 264 South 191 Po Box 457
+JL-5175	USA	MN	Sandstone	55072	109 Court Avenue South
+AA-315	USA	MN	Detroit Lakes	56501	705 Lundorff Drive South
+TS-11370	USA	NM	Santa Fe	87501	1027 Washington Avenue
+SS-10140	USA	NM	Mescalero	88340	1700 Cerrillos Road
+DP-3000	USA	AZ	Phoenix	85016	318 Abalone Loop
+JS-5685	USA	MO	Chillicothe	64601	4212 N 16Th Street
+PW-19240	GUM	GU	Dededo	96929	100 Central Street
+NW-8400	MNP	MP	Garapan	96950	133 Route 3
+TS-11340	USA	MN	Red Lake	56671	Navy Hill Road
+JH-5985	USA	MT	Harlem	59526	24760 Hospital Drive
+NG-8355	USA	MT	Crow Agency	59022	669 Main Street
+FP-14320	USA	ME	Augusta	4330	10110 South 7650 East
+SH-20395	USA	DE	Wilmington	19805	1 Va Center
+JP-16135	USA	NY	Northport	11768	1601 Kirkwood Highway
+JM-5250	USA	PA	Butler	16001	79 Middleville Rd
+MA-7995	USA	PA	Pittsburgh	15240	325 New Castle Rd
+DR-2940	USA	PA	Pittsburgh	15215	"University Dr,C"
+BF-1020	USA	MO	Poplar Bluff	63901	1010 Delafield Rd
+CS-2400	USA	MD	Baltimore	21201	621 West Pine Street
+JM-15535	USA	MD	Baltimore	21201	630 W Fayette Street
+JS-15940	USA	MD	Baltimore	21218	10 North Greene Street
+AF-870	USA	MO	Osceola	64776	3900 Loch Raven Boulevard
+NP-8670	USA	MO	St. Louis	63125	700 Giesler
+SU-10665	USA	MO	Mount Vernon	65712	1 Jefferson Barracks Dr
+RD-9585	USA	MD	Perry Point	21902	600 North Main Mt.
+TP-21565	USA	MO	El Dorado Springs	64744	Va Medical Center
+LA-6780	USA	MO	Poplar Bluff	63901	1301 Industrial Parkway East El
+LH-7020	USA	MO	Saint Louis	63106	1500 N Westwood Blvd
+JE-5475	USA	WV	Beckley	25801	915 N Grand Blvd
+ES-4080	USA	WV	Huntington	25701	200 Veterans Ave
+EM-4140	USA	WV	Martinsburg	25405	1540 Spring Valley Dr
+DS-13030	USA	DC	Washington	20422	510 Butler Ave
+ZD-11925	USA	VA	Salem	24153	50 Irving St Nw
+JO-5550	USA	MS	Starkville	39759	1970 Roanoke Boulevard
+TB-11595	USA	MS	Picayune	39466	400 Hospital Road
+GM-4500	USA	MS	Poplarville	39470	801 Goodyear Boulevard
+DD-3570	USA	MS	Southaven	38671	305 West Moody Street
+FH-4365	USA	MS	Olive Branch	38654	7601 Southcrest Parkway
+MK-18160	USA	MS	Hattiesburg	39404	8135 Goodman Road
+NM-8445	USA	MS	Hattiesburg	39401	6051 U. S. Highway 49
+JF-5355	USA	MS	Meadville	39653	"6051 U.S. Hwy 49,5Th Floor"
+BF-975	USA	MS	Lucedale	39452	40 Union Church Road
+SS-20875	USA	MS	Tylertown	39667	859 Winter Street
+PF-9165	USA	MS	Cleveland	38732	100 Hospital Drive
+SV-10365	USA	MS	Houston	38851	901 E. Sunflower Road
+BB-10990	USA	MS	Ackerman	39735	1002 East Madison Street
+PW-9240	USA	MS	Centreville	39631	148 West Cherry Street
+JF-15490	USA	MS	Louisville	39339	270 West Main Street
+CW-1905	USA	MS	Louisville	39339	2311 Highway 15 South
+LC-7140	USA	MS	Clarksdale	38614	562 East Main
+HK-4890	USA	MS	West Point	39773	1970 Hospital Drive
+BT-1440	USA	MS	Quitman	39355	835 Medical Center Drive
+RD-19810	USA	MS	Port Gibson	39150	605 South Archusa Avenue
+KL-6645	USA	MS	Amory	38821	123 Mccomb Avenue
+VG-11805	USA	MS	Aberdeen	39730	1105 Earl Frye Boulevard
+PF-9225	USA	MS	Canton	39046	400 South Chestnut Street
+AB-15	USA	MS	Belzoni	39038	1421 East Peace Street
+LW-6990	USA	MS	Holly Springs	38635	500 Ccc Road
+PS-8970	USA	MS	Kilmichael	39747	1430 Highway 4 East
+LW-17125	USA	MS	Winona	38967	301 Lamar Street
+MC-7590	USA	MS	Yazoo City	39194	409 Tyler Holmes Drive
+JO-15550	USA	MS	Water Valley	38965	823 Grand Avenue
+SJ-10125	USA	MS	Philadelphia	39350	630 S. Main Street
+SS-20515	USA	MS	Vicksburg	39180	1001 Holland Avenue
+RB-19645	USA	MS	Vicksburg	39183	"1111 Frontage Road,2Nd Floor"
+BP-1050	USA	MS	Iuka	38852	2100 Highway 61 North
+PG-8895	USA	MS	Tupelo	38801	1777 Curtis Drive
+RM-19750	USA	MS	Tupelo	38804	830 South Gloster
+KM-6225	USA	MS	Brookhaven	39601	1937 Briar Ridge Road
+AH-120	USA	MS	Waynesboro	39367	427 Highway 51 North
+BM-1785	USA	MS	Greenville	38701	950 Matthew Drive
+NR-8550	USA	MS	Greenville	38701	1400 East Union Street
+EB-14170	USA	MS	Eupora	39744	300 South Washington Avenue
+PB-19150	USA	MS	Booneville	38829	70 Medical Plaza
+TP-11130	USA	MS	Magnolia	39652	100 Hospital Street
+KN-6450	USA	MS	Mccomb	39649	205 North Cherry Street
+RD-9720	USA	MS	Pontotoc	38863	215 Marion Avenue
+RS-9870	USA	MS	Richton	39476	176 South Main Street
+EB-3840	USA	MS	Raleigh	39153	206 Bay Avenue
+TC-21475	USA	MS	Forest	39074	327 Magnolia Drive
+BH-1710	USA	MS	Morton	39117	330 North Broad Street
+MH-7620	USA	MS	Brandon	39042	317 Highway 13 South
+PT-9090	USA	MS	Flowood	39296	350 Crossgates Boulevard
+DC-2850	USA	MS	Flowood	39232	1030 River Oaks Drive
+AG-900	USA	MS	Jackson	39232	1026 North Flowood Drive
+DC-12850	USA	MS	Whitfield	39193	3531 Lakeland Drive
+JF-5565	USA	MS	Whitfield	39193	3550 Highway 468 West
+SR-10740	USA	MS	Mendenhall	39114	"Oak Circle,Building 60"
+MK-7905	USA	MS	Magee	39111	"1842 Simpson, Highway 149"
+JK-5370	USA	MS	Rolling Fork	39159	300 S. E. Third Avenue
+GM-4680	USA	MS	Lexington	39095	47 South Fourth Street
+PC-9000	USA	MS	Fayette	39069	239 Bowling Green Road
+DL-3315	USA	MS	Bay Springs	39422	870 South Main Street
+JL-5235	USA	MS	Laurel	39441	15-A South 6Th Street
+BB-990	USA	MS	Prentiss	39474	1220 Jefferson Street
+RP-9390	USA	MS	Union	39365	1102 Rose Street
+ES-4020	USA	MS	Leakesville	39451	25117 Highway 15
+MH-7455	USA	MS	Grenada	38901	1017 Jackson Street
+JD-5790	USA	MS	Jackson	39204	960 Avent Drive
+DB-3270	USA	MS	Jackson	39202	1850 Chadwick Drive
+PK-9075	USA	MS	Jackson	39211	1225 North State Street
+NM-8520	USA	MS	Jackson	39216	5903 Ridgewood Road
+MO-7500	USA	MS	Jackson	39216	1350 East Woodrow Wilson Drive
+SG-10890	USA	MS	Carthage	39051	2500 North State Street
+MF-8250	USA	MS	Meridian	39301	310 Ellis Street
+JG-5310	USA	MS	Meridian	39301	"1102 Constitution Ave.,2Nd Floor"
+YS-11880	USA	MS	Meridian	39303	1102 Constitution Avenue
+FC-4245	USA	GA	Augusta	30904	5000 Highway 39 North
+BW-1110	USA	MS	Meridian	39301	950 15Th Street Downtown
+BS-1590	USA	MS	Meridian	39301	2124 14Th Street
+CS-2460	USA	MS	Meridian	39301	1314 19Th Avenue
+MH-7290	USA	MS	Monticello	39654	1314 19Th Avenue
+KE-6420	USA	MS	Oxford	38655	1065 East Broad Street
+AJ-780	USA	MS	Purvis	39475	2301 South Lamar Boulevard
+MM-7920	USA	MS	Hattiesburg	39402	823 Highway 589
+ML-8265	USA	MS	Senatobia	38668	5001 Hardy Street
+RR-9315	USA	MS	New Albany	38652	401 Getwell Drive
+JF-5490	USA	MS	Ruleville	38771	200 Highway 30 West
+AG-765	USA	MS	Indianola	38751	840 North Oak Avenue
+DS-3030	USA	MS	Parchman	38738	121 East Baker Street
+AH-75	USA	MS	Charleston	38921	Highway 49 West
+NB-18580	USA	MS	Natchez	39120	201 South Market Street
+KD-6270	USA	MS	Natchez	39121	129 Jefferson Davis Boulevard
+MJ-7740	USA	MS	Corinth	38834	54 Seargent Prentiss Drive
+DM-3525	USA	MS	Kosciusko	39090	611 Alcorn Drive
+GH-4665	USA	MS	Greenwood	38935	220 Highway 12 West
+RM-9675	USA	SC	Columbia	29209	1401 River Road
+TS-11610	USA	MS	Columbus	39705	6439 Garners Ferry Rd
+PR-8880	USA	MS	Pascagoula	39581	2520 5Th Street North
+HP-4815	USA	MS	Ocean Springs	39564	2809 Denny Avenue
+EC-4050	USA	MS	Bay St. Louis	39521	3109 Bienville Boulevard
+BF-1005	USA	MS	Biloxi	39530	149 Drinkwater Boulevard
+SC-10050	USA	MS	Gulfport	39503	150 Reynoir Street
+DM-3345	USA	MS	Gulfport	39501	15200 Community Road
+CD-2280	USA	MS	Gulfport	39501	4500 13Th Street
+BP-1095	USA	MS	Greenville	38701	1520 Broad Avenue
+TC-11475	USA	MS	Ackerman	39735	300 South Washington Avenue
+DW-3540	USA	MS	Centreville	39631	8613 Ms Highway 12
+BE-1455	USA	MS	Picayune	39466	178 Highway 24E
+AH-195	USA	MS	Olive Branch	38654	130 Highlands Parkway
+DO-3645	USA	MT	Anaconda	59711	4250 Bethel Road
+CA-2055	USA	MT	Baker	59313	401 W Pennsylvania Ave
+LP-7080	USA	MT	Big Timber	59011	202 S 4Th St W
+BN-1515	USA	MT	Choteau	59422	301 West 7Th Avenue
+NK-8490	USA	MT	Cut Bank	59427	915 4Th St Nw
+AR-510	USA	MT	Ekalaka	59324	802 2Nd St Se
+VM-11835	USA	MT	Hamilton	59840	215 Sandy Street
+TH-11115	USA	MT	Hardin	59034	1200 Westwood Dr
+AB-165	USA	MT	Harlowton	59036	17 N Miles
+LB-6735	USA	MT	Livingston	59047	530 3Rd St Nw
+GA-4515	USA	MT	Malta	59538	504 S 13Th St
+DJ-3630	USA	MT	Plentywood	59254	311 S 8Th Ave E
+LT-6765	USA	MT	Big Sandy	59520	440 W Laurel Ave
+SG-10080	USA	MT	Circle	59215	166 Montana Avenue East
+TB-11175	USA	MT	Conrad	59425	605 Sullivan Ave
+AP-915	USA	MT	Culbertson	59218	805 Sunset Blvd
+ON-8715	USA	MT	Superior	59872	818 2Nd Ave E
+SB-10290	USA	MT	Ennis	59729	1208 6Th Ave E
+AJ-795	USA	MT	Forsyth	59327	305 N Main St
+TP-11565	USA	MT	Fort Benton	59442	383 N 17Th Ave
+ML-8040	USA	MT	Terry	59349	1501 St Charles St
+LC-6870	USA	MT	Glasgow	59230	312 S Adams
+AB-105	USA	MT	Glendive	59330	621 3Rd St S
+AW-840	USA	MT	Jordan	59337	202 Prospect Dr
+JO-5280	USA	MT	Lewistown	59457	332 Leavitt Avenue
+ME-7320	USA	MT	Townsend	59644	408 Wendell Ave
+SW-10455	USA	MT	Libby	59923	110 N Oak
+LP-7095	USA	MT	Miles City	59301	209 Health Park Drive
+DW-3195	USA	MT	Plains	59859	2600 Wilson
+SC-10770	USA	MT	Red Lodge	59068	10 Kruger Rd
+HE-4800	USA	MT	Ronan	59864	2525 N Broadway
+DL-3495	USA	MT	Roundup	59072	107 6Th Ave Sw
+EJ-4155	USA	MT	Scobey	59263	1202 3Rd St W
+JH-6180	USA	MT	Shelby	59474	105 5Th Avenue East
+DK-3150	USA	MT	Sheridan	59749	640 Park Ave
+XP-11865	USA	MT	Sidney	59270	220 E Crofoot St
+KT-6480	USA	MT	White Sulphur	59645	216 14Th Ave Sw
+MB-8085	USA	MT	Wolf Point	59201	16 W Main
+AR-345	USA	MT	Chester	59522	315 Knapp Street
+BD-1320	USA	MT	Columbus	59019	315 W Madison Ave
+DP-3165	USA	MT	Deer Lodge	59722	710 North 11Th St
+KD-6495	USA	MT	Philipsburg	59858	1100 Hollenback Lane
+CK-2595	USA	MT	Poplar	59255	310 Sansome
+SB-10170	USA	MT	Billings	59101	211 H Street East
+JJ-5760	USA	MT	Helena	59604	2800 10Th Ave N
+GH-4485	USA	MT	Bozeman	59715	2755 Colonial Dr
+DB-3555	USA	MT	Butte	59701	915 Highland Blvd
+LB-6795	USA	PA	Langhorne	19047	400 S Clark St
+KT-6465	USA	MT	Missoula	59804	1201 Langhorne-Newtown Road
+GA-4725	USA	MT	Missoula	59806	2827 Fort Missoula Rd
+DK-3090	USA	MT	Big Sky	59716	500 W Broadway
+SS-10590	USA	MT	Polson	59860	334 Town Center Avenue
+SD-10485	USA	MT	Livingston	59047	6 13Th Avenue E
+TS-21085	USA	NC	Gastonia	28053	320 Alpenglow Lane
+RA-9945	USA	NC	Charlotte	28233	2525 Court Drive
+JO-5145	USA	NC	Huntersville	28078	200 Hawthorne Lane
+LW-7215	USA	MT	Kalispell	59901	10030 Gilead Road
+RB-9645	USA	NC	Matthews	28106	310 Sunnyview Ln
+MV-7485	USA	NC	Charlotte	28207	1500 Matthews Township Parkway
+BW-1200	USA	NC	Salisbury	28144	1901 Randolph Rd
+CC-2610	USA	NC	Windsor	27983	612 Mocksville Ave
+BD-1560	USA	NC	Elizabethtown	28337	1403 South King Street
+CS-2505	USA	NC	Washington	27889	501 South Poplar Street
+VT-11700	USA	NC	Valdese	28690	628 East Twelfth St
+MC-7845	USA	NC	Thomasville	27360	720 Malcolm Boulevard
+KH-6690	USA	NC	Elizabeth City	27906	207 Old Lexington Road
+VS-11820	USA	NC	Edenton	27932	1144 North Road Street
+NF-8475	USA	NC	Shelby	28150	211 Virginia Road
+TB-11190	USA	NC	Kings Mountain	28086	201 East Grover St
+TS-11205	USA	AZ	Bisbee	85603	706 West King Street
+TD-10995	USA	NC	Wilmington	28403	101 Cole Ave
+EB-3750	USA	NC	Kenansville	28349	5301 Wrightsville Ave
+AH-690	USA	NC	Durham	27710	401 North Main St
+TB-11280	USA	NC	Durham	27704	2301 Erwin Road
+AM-705	USA	NC	Tarboro	27886	3643 North Roxboro Rd
+BD-1620	USA	NC	Winston Salem	27103	111 Hospital Dr
+KF-6285	USA	NC	Winston Salem	27157	1950 South Hawthorne Rd
+BE-1335	USA	NC	Winston Salem	27103	Medical Center Blvd
+HA-4905	USA	NC	Louisburg	27549	3333 Silas Creek Pkwy
+ND-8370	USA	NC	Sanford	27330	100 Hospital Drive
+AA-645	USA	NC	Smithfield	27577	1135 Carthage St
+CC-2430	USA	NC	Oxford	27565	509 N. Bright Leaf Blvd.
+PL-8925	USA	NC	Belmont	28012	1010 College Street
+SO-10335	USA	NC	Charlotte	28207	275 Beatty Drive
+AY-555	USA	NC	Charlotte	28203	2001 Vail Ave
+JB-6000	USA	NC	Marion	28752	1100 Blythe Blvd
+SN-10560	USA	NC	Franklin	28744	430 Rankin Drive
+AH-465	USA	NC	Highlands	28741	120 Riverview Street
+HW-4935	USA	NC	Hendersonville	28791	190 Hospital Drive
+MC-7425	USA	NC	Hendersonville	28732	800 North Justice Street
+BT-1680	USA	FL	Orlando	32827	100 Hospital Drive
+MG-7650	USA	NC	Dunn	28335	13800 Veterans Way
+CB-2415	USA	TN	Mountain Home	37684	800 Tilghman Dr
+CK-2760	USA	NC	Scotland Neck	27874	809 Lamont St
+AG-330	USA	NC	Roanoke Rapids	27870	921 Junior High Road
+MK-8160	USA	NC	Greensboro	27401	250 Smith Church Road
+NC-8625	USA	NC	High Point	27261	1200 North Elm St
+MO-7950	USA	NC	Greensboro	27406	601 North Elm Street
+HF-4995	USA	NC	Greensboro	27403	2401 Southside Blvd
+SJ-10215	USA	NC	Sylva	28779	501 N Elam Avenue
+AO-810	USA	NC	Statesville	28687	68 Hospital Rd
+RM-9375	USA	NC	Statesville	28677	218 Old Mocksville Road
+MM-8055	USA	NC	Ahoskie	27910	557 Brookdale Drive
+DN-3690	USA	NC	Goldsboro	27533	500 South Academy Street
+EB-3930	USA	NC	Wilson	27893	2700 Wayne Memorial Drive
+NH-8610	USA	NC	Yadkinville	27055	1705 Tarboro St. Sw
+EL-3735	USA	NC	Raleigh	27611	624 West Main St
+PS-8760	USA	NC	Raleigh	27607	3400 Wake Forest Road
+ST-10530	USA	NC	Raleigh	27620	4420 Lake Boone Trail
+RH-9510	USA	NC	Cary	27511	3000 New Bern Avenue
+BD-1605	USA	TN	Murfreesboro	37129	1900 Kildaire Farm Rd.
+SC-10440	USA	NC	Henderson	27536	3400 Lebanon Pike
+CG-2040	USA	NC	Blowing Rock	28605	566 Ruin Creek Road
+TG-11310	USA	NC	Boone	28607	418 Chestnut Street
+FO-4305	USA	TN	Nashville	37212	336 Deerfield Road
+CS-1950	USA	NC	Brevard	28712	1310 24Th Ave S
+LE-6810	USA	NC	Bryson City	28713	P O Box 1116
+DR-2880	USA	NC	Mount Airy	27030	45 Plateau St
+JR-5700	USA	NC	Elkin	28621	830 Rockford Street
+MS-7710	USA	NC	Wadesboro	28170	180 Parkwood Drive
+PM-8940	USA	NC	Sparta	28675	500 Morven Rd
+AZ-750	USA	NC	Burlington	27216	233 Doctors Street
+AA-375	USA	NC	Jefferson	28640	1240 Huffman Mill Road
+FM-4290	USA	NC	Columbus	28722	200 Hospital Ave.
+CR-2820	USA	NC	Greenville	27835	101 Hospital Drive
+VB-11745	USA	NC	Roxboro	27573	2100 Stantonsburg Road
+RH-19600	USA	NC	Morehead City	28557	615 Ridge Rd
+KH-6330	USA	NC	Siler City	27344	3500 Arendell Street
+ME-7725	USA	NC	Hickory	28602	475 Progress Boulevard
+FA-4230	USA	NC	Hickory	28601	810 Fairgrove Church Road
+GM-4455	USA	NC	Murphy	28906	420 North Center St
+KH-6510	USA	NC	Lumberton	28359	3990 East Us Hwy 64
+CD-2790	USA	AZ	Tucson	85712	300 West 27Th St
+NB-8580	USA	NC	Eden	27288	5301 East Grant Road
+CS-2250	USA	NC	Reidsville	27320	117 East Kings Hwy
+SP-10920	USA	NC	Asheboro	27204	618 South Main St.
+TH-11100	USA	NC	Laurinburg	28352	364 White Oak Street
+DC-3285	USA	NC	Rutherfordton	28139	500 Lauchwood Drive
+CM-2655	USA	NC	Clinton	28329	288 South Ridgecrest Ave.
+RF-9735	USA	NC	Linville	28646	607 Beaman Street
+LH-6750	USA	NC	Belhaven	27810	434 Hospital Drive
+JM-5265	USA	NC	Bolivia	28462	202 East Water St
+CS-1845	USA	NC	Southport	28461	240 Hospital Drive Ne
+CS-1860	USA	NC	Concord	28025	924 Howe St
+BT-1485	USA	NC	Lenoir	28645	920 Church St N
+KB-6240	USA	NC	Asheville	28801	321 Mulberry Street Sw
+KB-6600	USA	NC	Asheville	28813	509 Biltmore Ave
+LS-7230	USA	NC	Morganton	28655	68 Sweeten Creek Road
+MS-7365	USA	NC	Spruce Pine	28777	2201 South Sterling St
+BG-1740	USA	NC	Troy	27371	125 Hospital Drive
+HJ-4875	USA	NC	Pinehurst	28374	520 Allen Street
+LR-6915	USA	PA	Natrona Heights	15065	155 Memorial Drive
+JW-6075	USA	NC	Fayetteville	28302	1301 Carlisle Street
+DJ-3420	USA	NC	Fayetteville	28301	1638 Owen Drive
+SP-10650	USA	NC	Nags Head	27959	150 Robeson Street
+VM-21835	USA	NC	Lexington	27293	4800 South Croatan Highway
+CM-1815	USA	NC	Jacksonville	28541	250 Hospital Drive
+MH-8025	USA	NC	Chapel Hill	27514	317 Western Boulevard
+RD-9480	USA	NC	New Bern	28561	101 Manning Dr
+PW-9030	USA	NC	Whiteville	28472	2000 Neuse Blvd
+EB-4170	USA	NC	Shelby	28017	500 Jefferson St
+SM-10950	USA	NC	Cherokee	28719	315 West College Avenue
+NP-8325	USA	NC	Camp Lejeune	28547	1 Hospital Road
+MP-8175	USA	NC	Fort Bragg	28307	100 Brewster Blvd
+CM-2160	USA	NC	Durham	27705	2817 Reilly Rd
+NP-8700	USA	NC	Fayetteville	28301	508 Fulton St
+BP-1185	USA	NC	Asheville	28805	2300 Ramsey St
+SW-10755	USA	NC	Salisbury	28144	1100 Tunnel Rd
+AC-450	USA	NC	Kernersville	27284	1601 Brenner Ave
+SE-10110	USA	NC	Bolivia	28422	1750 Kernersville Medical Pkwy
+BS-1365	USA	NC	Wadesboro	28170	240 Hospital Dr Ne
+RM-9750	USA	NC	Raeford	28376	2301 Us Highway 74 West
+BT-1395	USA	NC	Kings Mountain	28086	201 Medical Pavilion Drive
+BP-1155	USA	NC	Concord	28025	706 West King Street
+GT-4635	USA	NC	Raeford	28376	487 Lake Concord Road
+CM-1935	USA	NC	Charlotte	28217	6408 Fayetteville Road
+RE-9405	USA	NC	Charlotte	28210	"8800 North Tryon St,4Th Floor"
+KS-6300	USA	NC	Winston Salem	27103	"10648 Park Road,3Rd Floor"
+TS-11160	USA	NC	Durham	27704	"3333 Silas Creek Parkway,6Th Floor"
+ML-7395	USA	NC	Greensboro	27401	"3643 North Roxboro Street,6Th Floor"
+BF-1170	USA	NC	Albemarle	28002	1200 North Elm Street
+NS-8640	USA	KY	Lexington	40511	301 Yadkin Street
+RB-9570	USA	KY	Lexington	40502	2250 Leestown Road Lexington
+FM-4380	USA	ND	Fargo	58102	1101 Veterans Drive
+AG-300	USA	KY	Louisville	40206	2101 Elm Street
+SW-10350	USA	MI	Ann Arbor	48105	800 Zorn Avenue
+JR-6210	USA	MI	Detroit	48201	2215 Fuller Rd
+MD-7350	USA	IN	Mishawaka	46545	4646 John R St
+ML-7755	USA	KY	Ft Thomas	41075	1540 Trinity Place
+HA-4920	USA	LA	Pineville	71360	1000 S Ft Thomas Ave
+AS-45	USA	AR	Little Rock	72114	2495 Shreveport Highway
+BF-1215	USA	LA	Shreveport	71101	2200 Fort Roots Drive North
+LH-6900	USA	AR	Little Rock	72205	510 E Stoner Ave
+DP-3390	USA	LA	New Orleans	70119	4300 West 7Th Street
+DH-3075	USA	NE	Boys Town	68010	2400 Canal Street
+HM-4860	USA	NE	Beatrice	68310	14000 Boys Town Hospital Rd
+SB-10185	USA	NE	Kearney	68847	N 10Th St
+RF-9840	USA	NE	Geneva	68361	1755 Prairie View Pl
+SV-10935	USA	NE	Genoa	68640	1900 F Street
+CS-2355	USA	NE	Hastings	68901	606/706 Ewing Ave
+GM-4695	USA	NE	Grand Island	68803	715 N St Joseph Ave
+AT-435	USA	NE	Kearney	68848	2620 West Faidley Ave
+MC-8130	USA	NE	Lincoln	68509	10 East 31St St
+FP-4320	USA	NE	Lincoln	68506	Folsom & West Prospector
+DK-3225	USA	NE	Lincoln	68506	"1710 South 70Th St,Suite 200"
+VG-11790	USA	AR	Fayetteville	72703	1600 South 48Th St
+LF-7185	USA	NE	Lincoln	68502	1100 North College Avenue
+NC-8535	USA	NE	Lincoln	68526	"2300 South 16Th Street,7Th Floor"
+DB-3405	USA	TX	Houston	77030	7500 South 91St St
+MH-8115	USA	NE	Lincoln	68502	2002 Holcombe Blvd
+SA-10830	USA	NE	Omaha	68114	2300 South 16Th St
+JK-5640	USA	NE	Omaha	68114	8200 Dodge St
+VF-11715	USA	TX	Temple	76504	8303 Dodge St
+VW-11775	USA	NE	Omaha	68131	1901 Veterans Memorial Dr
+SN-10710	USA	TX	Waco	76711	415 South 25Th Avenue
+MS-7980	USA	NE	Omaha	68122	4800 Memorial Dr
+AD-180	USA	NE	Omaha	68144	"6901 North 72Nd Street,Suite 20300"
+MC-8100	USA	TX	El Paso	79930	2808 South 143Rd Plz
+JB-5925	USA	NE	Franklin	68939	5001 N Piedras
+JC-5340	USA	NE	Broken Bow	68822	1406 Q St
+MF-7665	USA	NE	Lynch	68746	145 Memorial Drive
+RP-9270	USA	NE	Alliance	69301	401 South 5Th Street
+PF-9120	USA	NE	Albion	68620	2101 Box Butte Ave
+DK-2895	USA	NE	Gordon	69343	723 West Fairview St
+RW-9630	USA	NE	Hebron	68370	300 East 8Th St
+TM-11490	USA	NE	Creighton	68729	120 Park Ave
+Co-2640	USA	NE	Ord	68862	1503 Main St
+EM-3810	USA	NE	Pender	68047	2707 L Street
+JK-6090	USA	NE	Auburn	68305	100 Hospital Drive
+JH-5430	USA	NE	Bridgeport	69336	2022  13Th St
+AR-405	USA	TX	San Antonio	78229	1313 S Street
+TZ-11580	USA	NE	Superior	68978	7400 Merton Minter
+BG-1035	USA	NE	Nebraska City	68410	520 East 10Th St
+PS-9045	USA	NE	Syracuse	68446	1314  3Rd Ave
+MS-7770	USA	NE	Pawnee City	68420	1579 Midland St
+SS-10875	USA	NE	Holdrege	68949	600 I St
+DB-2970	USA	NE	St Paul	68873	1215 Tibbals St
+SS-10515	USA	NE	Oshkosh	69154	1113 Sherman St
+AW-930	USA	TX	Kerrville	78028	1100 West 2Nd St
+PK-8910	USA	NE	Papillion	68046	3600 Memorial Blvd
+GM-4440	USA	NE	Sidney	69162	11111 South 84Th St
+CY-2745	USA	FL	Okeechobee	34972	1000 Pole Creek Crossing
+RW-9690	USA	TX	Dallas	75216	1796 Hwy 441 North
+CC-2100	USA	NE	Omaha	68131	4500 S Lancaster Rd
+KD-6345	USA	TX	Harlingen	78550	601 North 30Th St
+KN-6390	USA	TX	Big Spring	79720	2601 Veterans Dr
+GT-4710	USA	WY	Sheridan	82801	300 Veterans Blvd
+TS-11085	USA	OH	Seaman	45679	1898 Fort Rd
+RR-9525	USA	FL	Orlando	32803	230 Medical Center Drive
+MT-7815	USA	FL	Boca Raton	33486	5201 Raymond Street
+JA-5970	USA	HI	Honolulu	96819	800 Meadows Rd
+CB-2535	USA	FL	West Palm Beach	33407	459 Patterson Road
+AP-720	USA	FL	Jupiter	33458	1041 45Th St
+SP-10860	USA	CO	Denver	80220	1210 S Old Dixie Hwy
+IL-5100	USA	WA	Spokane	99205	1055 Clemont Street
+VD-11670	USA	NE	Grand Island	68803	4815 N. Assembly St.
+EH-3765	USA	GA	Decatur	30033	2201 No. Broadwell Avenue
+BS-1755	USA	FL	Boca Raton	33428	1670 Clairmont Road
+HL-5040	USA	FL	Leesburg	34748	21644 State Rd 7
+CA-2310	USA	OH	Bluffton	45817	600 E Dixie Ave
+AC-420	USA	OH	Lima	45804	"139 Garau Street, Po Box 48"
+CC-2145	USA	FL	West Palm Beach	33410	"801 Medical Drive,Suite B"
+KB-6585	USA	OH	Dover	44622	7305 N Military Trail
+JG-5115	USA	FL	Wauchula	33873	659 Boulevard
+GK-4620	USA	FL	Bay Pines	33744	533 W Carlton St
+FW-4395	USA	FL	Dunedin	34698	10000 Bay Pines Blvd
+VM-11685	USA	FL	Saint Petersburg	33701	601 Main St
+RB-9360	USA	OR	Portland	97239	701 6Th St S
+AG-495	USA	FL	Saint Petersburg	33707	3181 Sw Sam Jackson Park Road
+IM-5070	USA	FL	Tampa	33612	1501 Pasadena Ave S
+MC-7635	USA	FL	Tampa	33613	13000 Bruce B Downs Blvd
+SH-10635	USA	FL	Tampa	33609	3100 E Fletcher Ave
+KC-6540	USA	OR	Portland	97232	2901 Swann Ave
+QJ-9255	USA	OR	Ne Salem	97301	1121 Ne 2Nd Avenue
+JK-5325	USA	FL	Brooksville	34613	2600 Center Street Ne
+AI-855	USA	FL	Lake Butler	32054	11375 Cortez Blvd
+SC-10095	USA	NH	Portsmouth	3801	7765 S County Rd 231
+CT-1995	USA	OH	Lima	45801	105 Corporate Drive
+PJ-8835	USA	FL	Fort Pierce	34950	730 W Market St
+JM-6195	USA	FL	Oxford	34484	1700 S 23Rd St
+CV-2295	USA	FL	Fort Myers	33901	5050 County Road 472
+DB-3120	USA	NH	Nashua	3062	2776 Cleveland Ave
+NL-8310	USA	FL	New Smyrna Beach	32168	"29 Nw Blvd,First Floor"
+BB-1545	USA	FL	Trinity	34655	401 Palmetto St
+BV-1245	USA	FL	Lutz	33549	9330 Fl-54
+BS-1380	USA	FL	Bartow	33831	21808 State Rd 54
+KA-6525	USA	NH	Salem	3079	2200 Osprey Blvd
+RB-9795	USA	FL	Melbourne	32901	70 Butler Street
+EP-3915	USA	FL	Titusville	32796	1350 S Hickory St
+JS-5595	USA	FL	Starke	32091	951 N Washington Ave
+JE-5610	USA	FL	Gainesville	32608	922 E Call St
+CJ-1875	USA	FL	Gainesville	32610	1601 S Archer Road
+TH-11550	USA	FL	Gainesville	32606	1600 Sw Archer Rd
+HR-4830	USA	FL	Orange Park	32073	4101 Nw 89Th Blvd
+KC-6675	USA	FL	Fort Lauderdale	33308	2001 Kingsley Ave
+LS-7200	USA	FL	Fort Lauderdale	33316	4545 N Federal Hwy
+DL-2925	USA	FL	Weston	33326	1600 S Andrews Ave
+WB-11850	USA	FL	Lauderdale Lakes	33313	3100 Weston Rd
+SJ-10500	USA	FL	Plantation	33324	5000 W Oakland Park Blvd
+DF-3135	USA	NH	Nashua	3062	8201 W Broward Blvd
+SZ-10035	USA	IL	Breese	62230	8 Prospect Street
+CK-2205	USA	FL	Marathon	33050	9515 Holy Cross Ln
+TM-11010	USA	FL	Miami	33176	3301 Overseas Hwy
+FC-4335	USA	FL	Miami	33137	8900 N Kendall Dr
+GB-4530	USA	FL	Homestead	33033	5200 Ne 2Nd Ave
+BF-1275	USA	OH	Lima	45801	975 Baptist Way
+NB-8655	USA	OH	Lima	45804	730 West Market Street
+EH-3990	USA	PA	Montrose	18801	1001 Bellefontaine Avenue
+SP-10545	USA	AZ	Benson	85602	25 Grow Avenue
+Dp-3240	USA	AZ	Willcox	85643	450 S. Ocotillo
+LW-6825	USA	PA	Nanticoke	18634	901 W Rex Allen Drive
+EN-3780	USA	PA	Wilkes-Barre	18711	128 West Washington Street
+TZ-11445	USA	PA	Wellsboro	16901	1000 East Mountain Drive
+KD-6615	USA	PA	Wilkes-Barre	18711	32-36 Central Avenue
+LD-7005	USA	PA	Bethlehem	18017	1111 East End Boulevard
+CL-1890	USA	PA	Allentown	18102	2545 Schoenersville Road
+HG-4965	USA	PA	Allentown	18104	421 Chew Street
+BO-1350	USA	PA	Allentown	18104	4815 Tilghman Street
+YC-11895	USA	PA	Bethlehem	18015	1503 Cedar Crest Boulevard
+JM-5535	USA	PA	Allentown	18105	801 Ostrum Street
+RA-9885	USA	MO	Chesterfield	63017	Cedar Crest Blvd & I-78 Po Box 689
+KM-6660	USA	PA	Lebanon	17042	13190 South Outer 40 Road
+DW-3585	USA	PA	Mt Gretna	17064	Fourth & Walnut Streets Po Box 1281
+TS-11655	USA	PA	Lebanon	17042	283 South Butler Road Po Box 550
+RK-9300	USA	PA	Ellwood City	16117	1700 South Lincoln Avenue
+SC-10020	USA	PA	New Castle	16105	724 Pershing Street
+AG-390	USA	PA	Lancaster	17604	1211 Wilmington Avenue
+AT-735	USA	PA	Lancaster	17601	555 North Duke Street
+JW-5955	USA	PA	Ephrata	17522	675 Good Drive
+AF-885	USA	PA	Bethlehem	18020	169 Martin Avenue
+KB-6405	USA	PA	Coal Township	17866	2310 Highland Avenue
+BP-1290	USA	PA	Eagleville	19408	4200 Hospital Road
+OT-8730	USA	PA	Ambler	19002	100 Eagleville Road
+LS-6975	USA	PA	Wynnewood	19096	722 East Butler Pike
+GD-4590	USA	PA	Norristown	19403	100 Lancaster Avenue
+MP-7965	USA	PA	Norristown	19401	50 Beech Drive
+DS-3180	USA	PA	Fort Washington	19034	1001 Sterigere Street
+ED-3885	USA	PA	Norristown	19401	7170 Lafayette Avenue
+NZ-8565	USA	PA	Norristown	19403	2701 Dekalb Pike
+JG-5805	USA	PA	Royersford	19468	1033 West Germantown Pike
+EB-3870	USA	PA	Bryn Mawr	19010	454 Enterprise Drive
+BG-1695	USA	PA	Pottstown	19464	130 South Bryn Mawr Avenue
+SR-10425	USA	PA	Lansdale	19446	1600 East High Street
+AS-90	USA	PA	Danville	17822	100 Medical Campus Drive
+SP-10620	USA	PA	Danville	17822	2 Rehab Lane
+SH-10395	USA	PA	Clarks Summit	18411	100 North Academy Avenue
+AR-540	USA	PA	Peckville	18452	1451 Hillside Drive
+CM-2235	USA	PA	Scranton	18510	1400 Main Street
+AS-225	USA	OH	Gallipolis	45631	746 Jefferson Avenue
+RA-9915	USA	PA	Huntingdon	16652	100 Jackson Pike
+RS-9420	USA	MS	Collins	39428	1225 Warm Springs Avenue
+TN-11040	USA	PA	Indiana	15701	701 South Holly Street
+VP-11730	USA	PA	Punxsutawney	15767	835 Hospital Road Po Box 788
+KW-6435	USA	PA	Brookville	15825	81 Hillcrest Drive
+PP-8955	USA	PA	Lewistown	17044	100 Hospital Road
+SC-10575	USA	PA	Greenville	16125	400 Highland Avenue
+ML-7410	USA	PA	Transfer	16154	110 North Main Street
+CJ-2010	USA	PA	Kane	16735	239 Edgewood Drive Extension
+FG-4260	USA	ME	Lewiston	4240	4372 Route 6
+TW-11025	USA	ME	Lewiston	4240	300 Main Street
+DB-3210	USA	PA	Grove City	16127	Campus Avenue
+EA-4035	USA	PA	Muncy	17756	631 North Broad St Ext
+EM-3825	USA	PA	Shippensburg	17257	215 East Water Street
+TB-11355	USA	PA	Chambersburg	17201	601 Roxbury Road
+ME-8010	USA	PA	Jersey Shore	17740	112 North 7Th Street
+JE-5715	USA	AZ	Florence	85132	1020 Thompson Street
+MC-7605	USA	PA	Mcconnellsburg	17233	4545 North Hunt Highway
+FH-4350	USA	PA	Williamsport	17701	214 Peach Orchard Road
+BC-1125	USA	AZ	Yuma	85364	1100 Grampian Boulevard
+MG-7875	USA	PA	East Stroudsburg	18301	901 W 24Th Street
+FH-4275	USA	PA	Waynesboro	17268	206 East Brown Street
+DK-2985	USA	RI	North Smithfield	2896	501 East Main Street
+BK-1260	USA	IN	Charlestown	47111	116 Eddie Dowling Highway
+MP-7470	USA	AZ	Mesa	85206	2200 Market St
+SC-10800	USA	AZ	Tucson	85739	215 South Power Road
+BD-1500	USA	AZ	Phoenix	85016	39580 S. Lago Del Oro Prkwy
+RC-9825	USA	PA	Harrisburg	17105	1930 East Thomas Road
+MG-7890	USA	PA	Harrisburg	17105	111 South Front Street
+ZC-11910	USA	PA	Hummelstown	17036	4300 Londonderry Road Harrisburgs
